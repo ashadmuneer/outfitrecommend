@@ -38,7 +38,7 @@ def recommend():
     bottomwear_rgb = np.array(hex_to_rgb(bottomwear_hex)).reshape(1, -1)  # Convert to RGB
 
     distances, indices = knn.kneighbors(bottomwear_rgb)  # Find nearest neighbors
-    recommendations = df.iloc[indices[0]][["Topwear_Color_Name", "Season", "Occasion", "Trend_Alignment", "Mood_Conveyed"]]
+    recommendations = df.iloc[indices[0]][["Topwear_Color_Name", "Season", "Occasion", "Trend_Alignment", "Mood_Conveyed","Time_of_Day_Preference","Skin_Tone_Compatibility"]]
 
     return jsonify(recommendations.to_dict(orient="records"))  # Convert DataFrame to JSON
 

@@ -1,501 +1,508 @@
-Topwear_Color_Name,Topwear_Hex,Bottomwear_Color_Name,Bottomwear_Hex,Contrast_Score,Trend_Alignment,Season,Occasion,Popularity_Score,Mood_Conveyed
-Mustard Yellow,#FFDB58,Beige,#F5F5DC,61,Low,All Seasons,Formal,78,Sophisticated
-Sky Blue,#87CEEB,Khaki,#C3B091,80,Low,Fall/Winter,Party,91,Sophisticated
-Black,#000000,Denim Blue,#1560BD,96,High,All Seasons,Casual,56,Classic
-Coral,#FF7F50,Gray,#808080,69,High,All Seasons,Formal,71,Relaxed
-Coral,#FF7F50,Black,#000000,61,High,Spring/Summer,Casual,59,Classic
-Crimson,#DC143C,Burnt Orange,#CC5500,70,Medium,Spring/Summer,Formal,62,Classic
-Coral,#FF7F50,Beige,#F5F5DC,67,Medium,All Seasons,Party,89,Bold
-Sky Blue,#87CEEB,White,#FFFFFF,89,High,Spring/Summer,Party,51,Relaxed
-Black,#000000,White,#FFFFFF,82,Medium,Spring/Summer,Formal,75,Energetic
-Coral,#FF7F50,Teal,#008080,87,Low,Fall/Winter,Party,99,Energetic
-Olive Green,#808000,Denim Blue,#1560BD,72,High,All Seasons,Party,89,Sophisticated
-Sky Blue,#87CEEB,Teal,#008080,91,Low,All Seasons,Casual,69,Sophisticated
-Sky Blue,#87CEEB,Khaki,#C3B091,78,High,Spring/Summer,Casual,73,Energetic
-Lavender,#E6E6FA,Burnt Orange,#CC5500,77,High,All Seasons,Party,51,Bold
-Turquoise,#40E0D0,Black,#000000,73,Medium,Spring/Summer,Formal,73,Relaxed
-Charcoal Gray,#36454F,Denim Blue,#1560BD,72,Medium,Fall/Winter,Casual,91,Classic
-Mustard Yellow,#FFDB58,Teal,#008080,68,Medium,Spring/Summer,Formal,69,Classic
-Charcoal Gray,#36454F,Gray,#808080,96,Medium,Fall/Winter,Formal,82,Sophisticated
-Crimson,#DC143C,Beige,#F5F5DC,85,Medium,All Seasons,Formal,92,Sophisticated
-Crimson,#DC143C,Maroon,#800000,64,Medium,All Seasons,Formal,71,Bold
-Coral,#FF7F50,Burnt Orange,#CC5500,67,High,Fall/Winter,Formal,65,Relaxed
-Charcoal Gray,#36454F,White,#FFFFFF,73,Medium,Fall/Winter,Party,87,Energetic
-Turquoise,#40E0D0,Khaki,#C3B091,88,High,Spring/Summer,Formal,79,Classic
-Black,#000000,Burnt Orange,#CC5500,99,Low,Spring/Summer,Formal,79,Bold
-Coral,#FF7F50,Denim Blue,#1560BD,100,Low,All Seasons,Casual,76,Bold
-Coral,#FF7F50,White,#FFFFFF,67,High,Fall/Winter,Casual,90,Energetic
-Crimson,#DC143C,Denim Blue,#1560BD,92,Medium,All Seasons,Party,66,Classic
-Turquoise,#40E0D0,White,#FFFFFF,61,Medium,Spring/Summer,Formal,51,Classic
-Black,#000000,Denim Blue,#1560BD,84,High,Fall/Winter,Formal,66,Classic
-Mustard Yellow,#FFDB58,Navy Blue,#000080,66,Low,All Seasons,Party,92,Sophisticated
-Olive Green,#808000,Gray,#808080,83,High,Spring/Summer,Party,88,Classic
-White,#FFFFFF,Maroon,#800000,94,Low,Fall/Winter,Party,67,Sophisticated
-Olive Green,#808000,Beige,#F5F5DC,75,Medium,Fall/Winter,Casual,60,Relaxed
-Olive Green,#808000,Teal,#008080,60,Low,Fall/Winter,Party,56,Energetic
-Coral,#FF7F50,White,#FFFFFF,86,Medium,All Seasons,Party,79,Sophisticated
-Lavender,#E6E6FA,Gray,#808080,85,Medium,Spring/Summer,Casual,69,Relaxed
-Coral,#FF7F50,Khaki,#C3B091,81,Low,All Seasons,Casual,56,Relaxed
-Charcoal Gray,#36454F,Teal,#008080,67,High,Fall/Winter,Formal,57,Classic
-Coral,#FF7F50,Burnt Orange,#CC5500,76,Low,Spring/Summer,Casual,100,Sophisticated
-Mustard Yellow,#FFDB58,Khaki,#C3B091,98,Medium,Spring/Summer,Formal,61,Sophisticated
-Turquoise,#40E0D0,Navy Blue,#000080,83,High,Fall/Winter,Casual,69,Energetic
-Olive Green,#808000,Maroon,#800000,100,High,All Seasons,Party,96,Sophisticated
-Crimson,#DC143C,Black,#000000,88,High,All Seasons,Party,75,Sophisticated
-White,#FFFFFF,Gray,#808080,70,High,Spring/Summer,Party,82,Bold
-Coral,#FF7F50,Burnt Orange,#CC5500,66,Medium,Spring/Summer,Formal,97,Relaxed
-Turquoise,#40E0D0,Beige,#F5F5DC,88,High,Spring/Summer,Formal,53,Energetic
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,94,Low,All Seasons,Casual,71,Relaxed
-Charcoal Gray,#36454F,Navy Blue,#000080,88,Medium,All Seasons,Casual,74,Classic
-Crimson,#DC143C,Black,#000000,90,Medium,Spring/Summer,Formal,57,Sophisticated
-Mustard Yellow,#FFDB58,Navy Blue,#000080,94,Low,Fall/Winter,Party,50,Classic
-Turquoise,#40E0D0,White,#FFFFFF,88,Medium,All Seasons,Party,68,Energetic
-Lavender,#E6E6FA,Beige,#F5F5DC,86,High,Fall/Winter,Casual,89,Relaxed
-Lavender,#E6E6FA,Navy Blue,#000080,63,Medium,Fall/Winter,Party,97,Classic
-White,#FFFFFF,Teal,#008080,97,Medium,Fall/Winter,Casual,57,Classic
-Mustard Yellow,#FFDB58,Denim Blue,#1560BD,83,High,Spring/Summer,Formal,76,Relaxed
-Coral,#FF7F50,Khaki,#C3B091,69,High,Spring/Summer,Party,87,Classic
-Sky Blue,#87CEEB,Burnt Orange,#CC5500,72,High,All Seasons,Formal,99,Bold
-Turquoise,#40E0D0,Black,#000000,84,Low,Fall/Winter,Party,85,Bold
-Lavender,#E6E6FA,Teal,#008080,62,Low,Fall/Winter,Casual,52,Classic
-Black,#000000,Burnt Orange,#CC5500,62,Low,Spring/Summer,Party,74,Energetic
-Lavender,#E6E6FA,Khaki,#C3B091,85,High,Fall/Winter,Formal,67,Relaxed
-Sky Blue,#87CEEB,Navy Blue,#000080,76,High,Spring/Summer,Formal,64,Sophisticated
-Turquoise,#40E0D0,Gray,#808080,78,Low,All Seasons,Casual,51,Relaxed
-Olive Green,#808000,Black,#000000,92,High,Spring/Summer,Casual,86,Classic
-White,#FFFFFF,Black,#000000,82,Low,All Seasons,Formal,59,Sophisticated
-White,#FFFFFF,Beige,#F5F5DC,72,Low,Fall/Winter,Formal,76,Classic
-Charcoal Gray,#36454F,Maroon,#800000,88,Medium,All Seasons,Casual,57,Relaxed
-Crimson,#DC143C,Teal,#008080,67,High,Fall/Winter,Casual,65,Sophisticated
-White,#FFFFFF,Black,#000000,89,High,All Seasons,Formal,95,Bold
-Mustard Yellow,#FFDB58,Khaki,#C3B091,74,High,All Seasons,Formal,69,Energetic
-Coral,#FF7F50,White,#FFFFFF,100,Medium,All Seasons,Casual,77,Energetic
-Lavender,#E6E6FA,Beige,#F5F5DC,72,Medium,Fall/Winter,Casual,53,Sophisticated
-Coral,#FF7F50,White,#FFFFFF,77,Low,Spring/Summer,Formal,75,Classic
-White,#FFFFFF,Khaki,#C3B091,96,Medium,All Seasons,Formal,95,Energetic
-Sky Blue,#87CEEB,Navy Blue,#000080,94,Low,Spring/Summer,Formal,80,Relaxed
-Mustard Yellow,#FFDB58,Beige,#F5F5DC,97,Low,Spring/Summer,Casual,91,Relaxed
-Black,#000000,Navy Blue,#000080,82,Low,Fall/Winter,Casual,94,Energetic
-Turquoise,#40E0D0,Denim Blue,#1560BD,61,High,Fall/Winter,Casual,77,Bold
-Turquoise,#40E0D0,Burnt Orange,#CC5500,90,High,Fall/Winter,Formal,97,Bold
-Sky Blue,#87CEEB,Teal,#008080,69,Medium,Spring/Summer,Formal,63,Sophisticated
-Sky Blue,#87CEEB,Gray,#808080,67,Low,Fall/Winter,Formal,52,Bold
-Crimson,#DC143C,Denim Blue,#1560BD,95,High,All Seasons,Party,70,Energetic
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,85,Low,Spring/Summer,Casual,58,Sophisticated
-Charcoal Gray,#36454F,Khaki,#C3B091,65,Medium,Fall/Winter,Formal,81,Bold
-Coral,#FF7F50,Maroon,#800000,65,Medium,All Seasons,Party,64,Classic
-Black,#000000,Beige,#F5F5DC,66,Low,Fall/Winter,Casual,84,Energetic
-Black,#000000,Gray,#808080,82,Low,Fall/Winter,Party,89,Relaxed
-Coral,#FF7F50,Gray,#808080,79,Medium,Spring/Summer,Party,50,Relaxed
-Coral,#FF7F50,Khaki,#C3B091,93,Low,Spring/Summer,Party,97,Relaxed
-Lavender,#E6E6FA,Burnt Orange,#CC5500,100,High,All Seasons,Casual,73,Sophisticated
-White,#FFFFFF,Maroon,#800000,90,High,Fall/Winter,Formal,86,Energetic
-Black,#000000,White,#FFFFFF,60,High,Spring/Summer,Casual,61,Classic
-Sky Blue,#87CEEB,Navy Blue,#000080,93,Low,Spring/Summer,Party,64,Sophisticated
-Olive Green,#808000,Black,#000000,76,High,Spring/Summer,Party,73,Bold
-Turquoise,#40E0D0,Navy Blue,#000080,95,High,All Seasons,Casual,96,Sophisticated
-Charcoal Gray,#36454F,Beige,#F5F5DC,77,Medium,Fall/Winter,Formal,92,Relaxed
-Mustard Yellow,#FFDB58,Navy Blue,#000080,78,Low,Spring/Summer,Formal,80,Classic
-Charcoal Gray,#36454F,Maroon,#800000,80,Medium,All Seasons,Party,86,Energetic
-Black,#000000,Black,#000000,99,Low,Fall/Winter,Casual,89,Sophisticated
-Turquoise,#40E0D0,Beige,#F5F5DC,96,Low,Spring/Summer,Party,91,Classic
-Mustard Yellow,#FFDB58,Gray,#808080,91,High,Fall/Winter,Party,60,Classic
-Black,#000000,Teal,#008080,100,High,Spring/Summer,Party,92,Energetic
-Mustard Yellow,#FFDB58,White,#FFFFFF,96,High,All Seasons,Party,53,Bold
-Mustard Yellow,#FFDB58,Maroon,#800000,82,High,All Seasons,Party,88,Bold
-Sky Blue,#87CEEB,Navy Blue,#000080,96,Medium,Fall/Winter,Party,73,Sophisticated
-Coral,#FF7F50,Teal,#008080,90,Medium,Fall/Winter,Party,52,Sophisticated
-Charcoal Gray,#36454F,Gray,#808080,62,Medium,All Seasons,Casual,62,Energetic
-Coral,#FF7F50,White,#FFFFFF,65,Low,All Seasons,Party,55,Relaxed
-Charcoal Gray,#36454F,Khaki,#C3B091,79,High,Fall/Winter,Formal,60,Energetic
-Charcoal Gray,#36454F,Gray,#808080,61,Low,All Seasons,Formal,50,Energetic
-Lavender,#E6E6FA,White,#FFFFFF,100,Medium,All Seasons,Formal,67,Bold
-Turquoise,#40E0D0,Black,#000000,65,Medium,Fall/Winter,Formal,99,Relaxed
-White,#FFFFFF,Gray,#808080,78,High,All Seasons,Casual,74,Relaxed
-Turquoise,#40E0D0,Burnt Orange,#CC5500,93,High,All Seasons,Party,73,Energetic
-Mustard Yellow,#FFDB58,Black,#000000,67,High,Spring/Summer,Casual,70,Energetic
-Olive Green,#808000,Beige,#F5F5DC,60,Low,Spring/Summer,Party,91,Bold
-Mustard Yellow,#FFDB58,Gray,#808080,79,High,All Seasons,Casual,64,Relaxed
-Sky Blue,#87CEEB,Maroon,#800000,100,High,Spring/Summer,Party,74,Classic
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,87,High,All Seasons,Casual,96,Energetic
-Sky Blue,#87CEEB,Teal,#008080,82,Medium,Spring/Summer,Formal,100,Classic
-Lavender,#E6E6FA,Burnt Orange,#CC5500,90,Low,All Seasons,Casual,67,Relaxed
-Mustard Yellow,#FFDB58,Maroon,#800000,81,Low,Fall/Winter,Formal,74,Energetic
-Coral,#FF7F50,Denim Blue,#1560BD,80,Low,Fall/Winter,Casual,69,Classic
-White,#FFFFFF,Beige,#F5F5DC,88,Medium,All Seasons,Formal,53,Sophisticated
-Lavender,#E6E6FA,Navy Blue,#000080,68,High,Spring/Summer,Party,77,Classic
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,98,Low,All Seasons,Party,93,Sophisticated
-Crimson,#DC143C,Teal,#008080,72,Medium,Fall/Winter,Party,54,Sophisticated
-Turquoise,#40E0D0,Teal,#008080,92,Low,All Seasons,Party,98,Sophisticated
-Charcoal Gray,#36454F,Black,#000000,92,High,All Seasons,Formal,66,Relaxed
-Sky Blue,#87CEEB,Black,#000000,87,Medium,Fall/Winter,Formal,95,Classic
-Olive Green,#808000,Gray,#808080,75,Medium,Spring/Summer,Formal,55,Sophisticated
-Crimson,#DC143C,Burnt Orange,#CC5500,61,Medium,Spring/Summer,Party,85,Classic
-Sky Blue,#87CEEB,Denim Blue,#1560BD,76,Medium,Fall/Winter,Formal,74,Energetic
-Black,#000000,Gray,#808080,67,Medium,Fall/Winter,Formal,88,Relaxed
-Sky Blue,#87CEEB,Gray,#808080,62,Medium,Fall/Winter,Formal,82,Energetic
-White,#FFFFFF,Navy Blue,#000080,73,Medium,All Seasons,Casual,54,Sophisticated
-Olive Green,#808000,Black,#000000,82,High,All Seasons,Casual,70,Bold
-Coral,#FF7F50,Navy Blue,#000080,93,High,Spring/Summer,Party,94,Sophisticated
-Mustard Yellow,#FFDB58,Teal,#008080,89,High,All Seasons,Casual,100,Energetic
-Turquoise,#40E0D0,White,#FFFFFF,82,High,Spring/Summer,Party,94,Bold
-Lavender,#E6E6FA,Navy Blue,#000080,81,High,Spring/Summer,Party,54,Classic
-Lavender,#E6E6FA,Beige,#F5F5DC,64,Low,All Seasons,Formal,61,Relaxed
-Mustard Yellow,#FFDB58,Navy Blue,#000080,95,Medium,Fall/Winter,Casual,80,Bold
-Turquoise,#40E0D0,Gray,#808080,100,High,Fall/Winter,Casual,71,Energetic
-Charcoal Gray,#36454F,White,#FFFFFF,92,High,Fall/Winter,Party,80,Energetic
-Charcoal Gray,#36454F,Navy Blue,#000080,76,Low,Fall/Winter,Party,77,Relaxed
-Olive Green,#808000,White,#FFFFFF,74,Medium,Spring/Summer,Party,98,Energetic
-Olive Green,#808000,Navy Blue,#000080,65,Medium,All Seasons,Casual,95,Classic
-Mustard Yellow,#FFDB58,Maroon,#800000,62,Medium,All Seasons,Formal,58,Sophisticated
-Lavender,#E6E6FA,Khaki,#C3B091,80,Medium,Spring/Summer,Casual,50,Classic
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,94,Low,All Seasons,Party,80,Classic
-White,#FFFFFF,Denim Blue,#1560BD,67,Medium,All Seasons,Casual,89,Sophisticated
-Charcoal Gray,#36454F,Teal,#008080,100,Low,All Seasons,Casual,96,Sophisticated
-Lavender,#E6E6FA,Beige,#F5F5DC,84,Medium,All Seasons,Casual,93,Relaxed
-Sky Blue,#87CEEB,Maroon,#800000,76,Medium,Fall/Winter,Casual,53,Bold
-Turquoise,#40E0D0,Teal,#008080,93,Low,Fall/Winter,Party,80,Energetic
-White,#FFFFFF,Beige,#F5F5DC,91,Medium,Spring/Summer,Party,67,Bold
-Black,#000000,Burnt Orange,#CC5500,97,Medium,Fall/Winter,Casual,64,Bold
-Lavender,#E6E6FA,Burnt Orange,#CC5500,84,Medium,Fall/Winter,Formal,68,Relaxed
-Lavender,#E6E6FA,Burnt Orange,#CC5500,88,Low,All Seasons,Formal,61,Bold
-White,#FFFFFF,Teal,#008080,71,High,Spring/Summer,Casual,98,Sophisticated
-White,#FFFFFF,Burnt Orange,#CC5500,100,Medium,All Seasons,Casual,81,Bold
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,81,Low,Fall/Winter,Casual,71,Relaxed
-Crimson,#DC143C,Denim Blue,#1560BD,90,High,Fall/Winter,Party,96,Classic
-Olive Green,#808000,Khaki,#C3B091,98,Low,All Seasons,Party,93,Classic
-Mustard Yellow,#FFDB58,Teal,#008080,93,Low,Spring/Summer,Casual,58,Relaxed
-Olive Green,#808000,Khaki,#C3B091,87,Medium,Spring/Summer,Casual,54,Bold
-Olive Green,#808000,White,#FFFFFF,80,High,All Seasons,Party,50,Sophisticated
-Black,#000000,Teal,#008080,64,Medium,All Seasons,Formal,59,Bold
-White,#FFFFFF,Denim Blue,#1560BD,93,High,Spring/Summer,Casual,69,Energetic
-Lavender,#E6E6FA,Beige,#F5F5DC,100,Medium,Fall/Winter,Casual,71,Relaxed
-Crimson,#DC143C,Burnt Orange,#CC5500,88,Low,Fall/Winter,Formal,86,Sophisticated
-Charcoal Gray,#36454F,White,#FFFFFF,81,Medium,All Seasons,Party,51,Sophisticated
-Olive Green,#808000,White,#FFFFFF,68,High,Fall/Winter,Casual,99,Classic
-Coral,#FF7F50,Gray,#808080,89,Low,Fall/Winter,Casual,68,Classic
-White,#FFFFFF,Gray,#808080,63,Low,Fall/Winter,Formal,73,Bold
-Charcoal Gray,#36454F,Navy Blue,#000080,78,High,Fall/Winter,Casual,63,Sophisticated
-Black,#000000,Denim Blue,#1560BD,91,High,All Seasons,Party,94,Classic
-White,#FFFFFF,Navy Blue,#000080,69,Medium,Spring/Summer,Formal,62,Bold
-Olive Green,#808000,Black,#000000,83,High,Spring/Summer,Formal,98,Relaxed
-Charcoal Gray,#36454F,Gray,#808080,64,Low,Fall/Winter,Party,85,Energetic
-Charcoal Gray,#36454F,Teal,#008080,86,Low,Fall/Winter,Party,50,Classic
-Crimson,#DC143C,Gray,#808080,64,High,Fall/Winter,Casual,100,Sophisticated
-Black,#000000,Navy Blue,#000080,74,High,All Seasons,Casual,87,Bold
-Olive Green,#808000,Denim Blue,#1560BD,99,Low,Spring/Summer,Formal,55,Sophisticated
-Turquoise,#40E0D0,Maroon,#800000,78,Medium,All Seasons,Casual,79,Classic
-Lavender,#E6E6FA,Burnt Orange,#CC5500,77,Low,Spring/Summer,Casual,81,Energetic
-Turquoise,#40E0D0,Gray,#808080,77,Low,Spring/Summer,Casual,53,Sophisticated
-Turquoise,#40E0D0,Black,#000000,92,Medium,Spring/Summer,Formal,87,Relaxed
-Charcoal Gray,#36454F,Teal,#008080,71,High,All Seasons,Party,59,Sophisticated
-Mustard Yellow,#FFDB58,Navy Blue,#000080,90,High,All Seasons,Formal,79,Classic
-Black,#000000,Beige,#F5F5DC,77,High,All Seasons,Party,74,Energetic
-Coral,#FF7F50,Navy Blue,#000080,72,High,Spring/Summer,Casual,72,Sophisticated
-Sky Blue,#87CEEB,Khaki,#C3B091,75,High,All Seasons,Party,70,Bold
-Sky Blue,#87CEEB,Denim Blue,#1560BD,76,Medium,Fall/Winter,Casual,61,Relaxed
-Crimson,#DC143C,White,#FFFFFF,88,High,Spring/Summer,Party,96,Bold
-Olive Green,#808000,Denim Blue,#1560BD,67,Low,Spring/Summer,Casual,61,Relaxed
-Black,#000000,Denim Blue,#1560BD,62,Low,All Seasons,Formal,65,Bold
-Mustard Yellow,#FFDB58,Maroon,#800000,62,High,Fall/Winter,Casual,58,Energetic
-Charcoal Gray,#36454F,Denim Blue,#1560BD,94,Medium,Fall/Winter,Formal,56,Relaxed
-Olive Green,#808000,Maroon,#800000,65,Low,Spring/Summer,Formal,100,Relaxed
-Coral,#FF7F50,White,#FFFFFF,90,Low,Fall/Winter,Casual,60,Classic
-Sky Blue,#87CEEB,Teal,#008080,87,High,Spring/Summer,Party,71,Energetic
-Coral,#FF7F50,Maroon,#800000,62,High,Spring/Summer,Party,90,Sophisticated
-Black,#000000,Beige,#F5F5DC,96,Low,All Seasons,Casual,80,Relaxed
-Lavender,#E6E6FA,Teal,#008080,100,Medium,All Seasons,Casual,81,Classic
-Turquoise,#40E0D0,Navy Blue,#000080,68,High,All Seasons,Casual,55,Bold
-White,#FFFFFF,Khaki,#C3B091,72,High,All Seasons,Formal,67,Relaxed
-Coral,#FF7F50,Maroon,#800000,86,Medium,All Seasons,Formal,95,Classic
-Lavender,#E6E6FA,Maroon,#800000,66,Low,Fall/Winter,Casual,98,Sophisticated
-Lavender,#E6E6FA,Teal,#008080,75,High,Spring/Summer,Formal,94,Relaxed
-Charcoal Gray,#36454F,Denim Blue,#1560BD,98,High,Spring/Summer,Casual,94,Bold
-Sky Blue,#87CEEB,Burnt Orange,#CC5500,66,High,Fall/Winter,Casual,78,Bold
-Coral,#FF7F50,Black,#000000,76,Medium,Fall/Winter,Casual,86,Relaxed
-Lavender,#E6E6FA,White,#FFFFFF,90,Low,Spring/Summer,Party,96,Energetic
-Lavender,#E6E6FA,Beige,#F5F5DC,82,High,Spring/Summer,Casual,67,Energetic
-Charcoal Gray,#36454F,Gray,#808080,71,High,All Seasons,Formal,55,Energetic
-Turquoise,#40E0D0,Beige,#F5F5DC,91,Medium,All Seasons,Party,84,Bold
-Lavender,#E6E6FA,Burnt Orange,#CC5500,85,High,All Seasons,Casual,73,Relaxed
-Olive Green,#808000,Denim Blue,#1560BD,80,Low,Spring/Summer,Party,90,Energetic
-Mustard Yellow,#FFDB58,Khaki,#C3B091,73,Medium,Spring/Summer,Casual,84,Classic
-Mustard Yellow,#FFDB58,Black,#000000,60,Low,Fall/Winter,Party,52,Classic
-Mustard Yellow,#FFDB58,Denim Blue,#1560BD,97,Medium,Spring/Summer,Casual,98,Classic
-Olive Green,#808000,Gray,#808080,95,Medium,Fall/Winter,Party,67,Sophisticated
-Olive Green,#808000,Gray,#808080,80,High,Fall/Winter,Party,59,Sophisticated
-Coral,#FF7F50,Maroon,#800000,60,Low,Fall/Winter,Party,75,Bold
-White,#FFFFFF,Teal,#008080,62,Medium,All Seasons,Casual,50,Bold
-Turquoise,#40E0D0,Gray,#808080,87,Low,Spring/Summer,Party,98,Classic
-Sky Blue,#87CEEB,Gray,#808080,64,High,Fall/Winter,Formal,58,Classic
-Mustard Yellow,#FFDB58,Beige,#F5F5DC,83,Low,Spring/Summer,Formal,93,Classic
-Turquoise,#40E0D0,Teal,#008080,97,Medium,All Seasons,Formal,66,Relaxed
-Lavender,#E6E6FA,Denim Blue,#1560BD,79,Low,Spring/Summer,Casual,90,Energetic
-Black,#000000,Teal,#008080,78,High,Spring/Summer,Casual,51,Relaxed
-White,#FFFFFF,Maroon,#800000,74,Low,All Seasons,Casual,63,Sophisticated
-White,#FFFFFF,Denim Blue,#1560BD,71,High,Fall/Winter,Party,77,Relaxed
-Olive Green,#808000,Black,#000000,87,Low,Fall/Winter,Formal,66,Classic
-Coral,#FF7F50,Denim Blue,#1560BD,91,Medium,Spring/Summer,Party,67,Relaxed
-Sky Blue,#87CEEB,Burnt Orange,#CC5500,91,High,All Seasons,Formal,77,Bold
-Charcoal Gray,#36454F,Khaki,#C3B091,69,Low,Fall/Winter,Party,99,Energetic
-Charcoal Gray,#36454F,Teal,#008080,89,Low,Fall/Winter,Party,83,Relaxed
-Sky Blue,#87CEEB,Navy Blue,#000080,67,High,All Seasons,Party,98,Relaxed
-White,#FFFFFF,Navy Blue,#000080,94,Low,All Seasons,Casual,87,Bold
-Olive Green,#808000,Gray,#808080,62,Low,Fall/Winter,Party,59,Bold
-Coral,#FF7F50,Navy Blue,#000080,70,High,Fall/Winter,Casual,71,Bold
-Lavender,#E6E6FA,Teal,#008080,73,High,All Seasons,Formal,59,Bold
-Coral,#FF7F50,Gray,#808080,95,Medium,All Seasons,Formal,89,Sophisticated
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,65,Low,All Seasons,Casual,99,Relaxed
-Olive Green,#808000,Beige,#F5F5DC,89,Low,Fall/Winter,Formal,63,Relaxed
-Turquoise,#40E0D0,Black,#000000,67,Low,All Seasons,Formal,89,Classic
-Sky Blue,#87CEEB,Denim Blue,#1560BD,88,High,All Seasons,Casual,70,Bold
-Turquoise,#40E0D0,Black,#000000,61,Medium,Fall/Winter,Party,67,Relaxed
-Sky Blue,#87CEEB,White,#FFFFFF,83,High,Spring/Summer,Party,74,Bold
-Black,#000000,Black,#000000,86,High,All Seasons,Party,69,Bold
-Crimson,#DC143C,Navy Blue,#000080,60,Medium,Fall/Winter,Formal,98,Bold
-Coral,#FF7F50,Black,#000000,100,Low,Spring/Summer,Casual,76,Relaxed
-Charcoal Gray,#36454F,Khaki,#C3B091,69,Medium,All Seasons,Casual,86,Relaxed
-Black,#000000,Black,#000000,88,Low,Spring/Summer,Casual,95,Sophisticated
-Mustard Yellow,#FFDB58,Denim Blue,#1560BD,76,Low,Fall/Winter,Party,91,Relaxed
-White,#FFFFFF,Khaki,#C3B091,92,Medium,All Seasons,Party,58,Bold
-Turquoise,#40E0D0,Khaki,#C3B091,78,High,Spring/Summer,Casual,71,Sophisticated
-Sky Blue,#87CEEB,Khaki,#C3B091,78,Medium,Spring/Summer,Casual,80,Energetic
-Turquoise,#40E0D0,Denim Blue,#1560BD,82,Low,Fall/Winter,Casual,76,Energetic
-Charcoal Gray,#36454F,Gray,#808080,73,Medium,Fall/Winter,Formal,52,Bold
-Coral,#FF7F50,Beige,#F5F5DC,77,Low,Fall/Winter,Party,68,Bold
-Lavender,#E6E6FA,Khaki,#C3B091,88,Low,All Seasons,Formal,53,Relaxed
-Coral,#FF7F50,Khaki,#C3B091,66,Low,Fall/Winter,Casual,96,Sophisticated
-Black,#000000,Gray,#808080,60,High,Spring/Summer,Casual,95,Relaxed
-Charcoal Gray,#36454F,Maroon,#800000,100,High,Fall/Winter,Party,92,Bold
-Turquoise,#40E0D0,White,#FFFFFF,79,Low,Spring/Summer,Casual,61,Relaxed
-Black,#000000,Denim Blue,#1560BD,84,High,Spring/Summer,Party,53,Energetic
-White,#FFFFFF,Navy Blue,#000080,75,Low,All Seasons,Party,90,Energetic
-Black,#000000,Khaki,#C3B091,100,High,All Seasons,Party,66,Bold
-Lavender,#E6E6FA,Teal,#008080,74,High,Fall/Winter,Casual,68,Classic
-Black,#000000,Beige,#F5F5DC,96,Medium,Spring/Summer,Party,61,Sophisticated
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,72,Low,Spring/Summer,Formal,61,Classic
-Olive Green,#808000,Maroon,#800000,98,Medium,Spring/Summer,Formal,61,Classic
-Charcoal Gray,#36454F,Beige,#F5F5DC,60,High,Spring/Summer,Formal,67,Bold
-Lavender,#E6E6FA,White,#FFFFFF,75,Low,All Seasons,Formal,65,Classic
-Black,#000000,Black,#000000,67,High,All Seasons,Formal,80,Bold
-Lavender,#E6E6FA,Gray,#808080,63,Medium,Spring/Summer,Casual,59,Sophisticated
-Turquoise,#40E0D0,Black,#000000,93,Medium,Spring/Summer,Casual,55,Bold
-Black,#000000,Teal,#008080,82,High,All Seasons,Party,58,Energetic
-Sky Blue,#87CEEB,Gray,#808080,84,Low,Fall/Winter,Casual,94,Bold
-Turquoise,#40E0D0,Teal,#008080,81,High,Spring/Summer,Formal,94,Sophisticated
-Turquoise,#40E0D0,Maroon,#800000,80,Medium,All Seasons,Casual,63,Relaxed
-Charcoal Gray,#36454F,Black,#000000,89,Low,Spring/Summer,Casual,70,Sophisticated
-Mustard Yellow,#FFDB58,Maroon,#800000,62,High,All Seasons,Party,73,Energetic
-Turquoise,#40E0D0,Khaki,#C3B091,97,Low,Spring/Summer,Formal,75,Relaxed
-White,#FFFFFF,White,#FFFFFF,73,Low,Fall/Winter,Formal,55,Sophisticated
-Crimson,#DC143C,Maroon,#800000,65,Low,Fall/Winter,Party,86,Sophisticated
-Coral,#FF7F50,White,#FFFFFF,85,High,Fall/Winter,Party,83,Energetic
-Sky Blue,#87CEEB,Denim Blue,#1560BD,87,Medium,Spring/Summer,Casual,54,Energetic
-Turquoise,#40E0D0,Navy Blue,#000080,86,Low,Spring/Summer,Formal,71,Classic
-Turquoise,#40E0D0,Black,#000000,72,High,All Seasons,Party,99,Bold
-Lavender,#E6E6FA,Denim Blue,#1560BD,72,Medium,All Seasons,Formal,98,Energetic
-Charcoal Gray,#36454F,White,#FFFFFF,63,High,Fall/Winter,Formal,94,Energetic
-Mustard Yellow,#FFDB58,Maroon,#800000,71,Low,Spring/Summer,Formal,79,Relaxed
-Crimson,#DC143C,Gray,#808080,81,High,Fall/Winter,Formal,77,Energetic
-Mustard Yellow,#FFDB58,Teal,#008080,91,Medium,All Seasons,Casual,88,Energetic
-Charcoal Gray,#36454F,Navy Blue,#000080,70,High,All Seasons,Party,76,Energetic
-Crimson,#DC143C,Black,#000000,67,High,Spring/Summer,Formal,77,Classic
-Black,#000000,Gray,#808080,83,High,All Seasons,Casual,51,Sophisticated
-Turquoise,#40E0D0,Maroon,#800000,70,High,Spring/Summer,Casual,63,Sophisticated
-Crimson,#DC143C,White,#FFFFFF,99,Low,Fall/Winter,Party,91,Relaxed
-Olive Green,#808000,Teal,#008080,74,High,Spring/Summer,Party,56,Bold
-Sky Blue,#87CEEB,Burnt Orange,#CC5500,76,High,Spring/Summer,Formal,69,Bold
-Mustard Yellow,#FFDB58,Black,#000000,76,Low,Fall/Winter,Party,91,Classic
-Olive Green,#808000,Beige,#F5F5DC,100,Low,Spring/Summer,Formal,58,Relaxed
-Olive Green,#808000,White,#FFFFFF,85,High,Spring/Summer,Casual,69,Bold
-Coral,#FF7F50,Navy Blue,#000080,79,Low,All Seasons,Party,73,Energetic
-Turquoise,#40E0D0,Navy Blue,#000080,81,Medium,Spring/Summer,Party,63,Bold
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,77,High,All Seasons,Party,94,Energetic
-White,#FFFFFF,White,#FFFFFF,95,Medium,All Seasons,Party,92,Classic
-Charcoal Gray,#36454F,Black,#000000,95,Low,All Seasons,Party,77,Energetic
-Black,#000000,Burnt Orange,#CC5500,91,Low,All Seasons,Party,65,Energetic
-Coral,#FF7F50,Teal,#008080,91,Low,Fall/Winter,Party,89,Bold
-Lavender,#E6E6FA,White,#FFFFFF,78,Low,Fall/Winter,Formal,74,Energetic
-Black,#000000,Denim Blue,#1560BD,75,Low,Fall/Winter,Formal,74,Sophisticated
-Coral,#FF7F50,Teal,#008080,80,High,Spring/Summer,Formal,93,Relaxed
-Sky Blue,#87CEEB,Gray,#808080,76,Low,All Seasons,Casual,51,Energetic
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,78,Medium,All Seasons,Formal,58,Sophisticated
-White,#FFFFFF,Navy Blue,#000080,74,Medium,All Seasons,Party,68,Classic
-Crimson,#DC143C,Khaki,#C3B091,92,Low,Spring/Summer,Casual,52,Energetic
-Charcoal Gray,#36454F,Navy Blue,#000080,94,Low,Spring/Summer,Formal,60,Energetic
-Coral,#FF7F50,Beige,#F5F5DC,61,Low,Fall/Winter,Party,93,Energetic
-Black,#000000,Teal,#008080,74,High,Spring/Summer,Casual,77,Bold
-Coral,#FF7F50,Beige,#F5F5DC,96,Medium,Spring/Summer,Party,61,Relaxed
-Crimson,#DC143C,White,#FFFFFF,66,Low,All Seasons,Casual,69,Classic
-Coral,#FF7F50,Navy Blue,#000080,62,Medium,All Seasons,Casual,58,Relaxed
-Turquoise,#40E0D0,Burnt Orange,#CC5500,69,Medium,Fall/Winter,Casual,66,Bold
-Lavender,#E6E6FA,White,#FFFFFF,98,Low,Spring/Summer,Casual,58,Relaxed
-Mustard Yellow,#FFDB58,Gray,#808080,82,Medium,All Seasons,Formal,93,Relaxed
-Black,#000000,White,#FFFFFF,72,Low,Spring/Summer,Party,86,Relaxed
-White,#FFFFFF,Khaki,#C3B091,90,Low,Fall/Winter,Party,75,Classic
-Sky Blue,#87CEEB,Beige,#F5F5DC,71,Medium,Fall/Winter,Casual,72,Relaxed
-Olive Green,#808000,Denim Blue,#1560BD,73,Medium,All Seasons,Formal,81,Bold
-Black,#000000,Burnt Orange,#CC5500,100,High,All Seasons,Formal,66,Sophisticated
-Lavender,#E6E6FA,Navy Blue,#000080,70,Medium,All Seasons,Formal,59,Bold
-Olive Green,#808000,Maroon,#800000,70,Medium,All Seasons,Party,58,Classic
-Charcoal Gray,#36454F,Maroon,#800000,93,High,Fall/Winter,Party,97,Bold
-Mustard Yellow,#FFDB58,White,#FFFFFF,81,High,Spring/Summer,Casual,56,Relaxed
-Charcoal Gray,#36454F,Gray,#808080,95,Medium,All Seasons,Party,61,Energetic
-Turquoise,#40E0D0,Beige,#F5F5DC,88,Medium,Fall/Winter,Formal,65,Relaxed
-Sky Blue,#87CEEB,Maroon,#800000,84,High,Fall/Winter,Formal,65,Classic
-White,#FFFFFF,Maroon,#800000,73,Low,Spring/Summer,Party,91,Relaxed
-White,#FFFFFF,Gray,#808080,78,High,All Seasons,Casual,58,Energetic
-Olive Green,#808000,Maroon,#800000,88,Medium,Fall/Winter,Formal,85,Relaxed
-Olive Green,#808000,Black,#000000,93,High,Fall/Winter,Party,75,Sophisticated
-Mustard Yellow,#FFDB58,Navy Blue,#000080,96,Medium,Spring/Summer,Party,58,Classic
-Lavender,#E6E6FA,Denim Blue,#1560BD,84,Medium,Spring/Summer,Formal,77,Classic
-Charcoal Gray,#36454F,Gray,#808080,68,High,All Seasons,Casual,56,Classic
-Crimson,#DC143C,Black,#000000,94,High,All Seasons,Formal,50,Bold
-Lavender,#E6E6FA,Beige,#F5F5DC,87,Medium,All Seasons,Party,73,Energetic
-Mustard Yellow,#FFDB58,Beige,#F5F5DC,63,High,Spring/Summer,Party,66,Bold
-Lavender,#E6E6FA,Beige,#F5F5DC,84,High,All Seasons,Casual,54,Classic
-Mustard Yellow,#FFDB58,White,#FFFFFF,89,Low,Fall/Winter,Casual,73,Bold
-Charcoal Gray,#36454F,Beige,#F5F5DC,93,High,Fall/Winter,Formal,88,Relaxed
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,96,High,All Seasons,Casual,74,Bold
-Charcoal Gray,#36454F,Khaki,#C3B091,88,Low,Spring/Summer,Formal,73,Sophisticated
-Black,#000000,Teal,#008080,90,High,Spring/Summer,Party,72,Sophisticated
-Crimson,#DC143C,Maroon,#800000,81,Medium,All Seasons,Formal,80,Relaxed
-Mustard Yellow,#FFDB58,Beige,#F5F5DC,91,Low,All Seasons,Casual,60,Sophisticated
-Sky Blue,#87CEEB,White,#FFFFFF,82,High,All Seasons,Party,69,Energetic
-Lavender,#E6E6FA,Maroon,#800000,95,Low,Spring/Summer,Formal,94,Energetic
-Lavender,#E6E6FA,Khaki,#C3B091,90,Low,Fall/Winter,Casual,66,Sophisticated
-Coral,#FF7F50,Teal,#008080,98,Medium,All Seasons,Party,76,Energetic
-Black,#000000,Denim Blue,#1560BD,95,Medium,All Seasons,Party,84,Classic
-Coral,#FF7F50,Teal,#008080,79,High,Spring/Summer,Casual,50,Bold
-White,#FFFFFF,Gray,#808080,77,Medium,Spring/Summer,Party,98,Bold
-Charcoal Gray,#36454F,Black,#000000,84,Medium,Fall/Winter,Party,97,Relaxed
-White,#FFFFFF,Beige,#F5F5DC,86,High,All Seasons,Casual,57,Classic
-Coral,#FF7F50,Teal,#008080,90,Low,All Seasons,Formal,84,Energetic
-Coral,#FF7F50,Denim Blue,#1560BD,80,Medium,All Seasons,Party,86,Bold
-Black,#000000,Maroon,#800000,64,Medium,Spring/Summer,Casual,81,Classic
-Coral,#FF7F50,Navy Blue,#000080,69,High,Spring/Summer,Formal,93,Relaxed
-Mustard Yellow,#FFDB58,Maroon,#800000,80,Medium,Fall/Winter,Casual,84,Bold
-Olive Green,#808000,Gray,#808080,68,Low,All Seasons,Formal,66,Relaxed
-Black,#000000,Denim Blue,#1560BD,94,High,Spring/Summer,Formal,86,Bold
-Crimson,#DC143C,White,#FFFFFF,91,High,All Seasons,Party,74,Bold
-Mustard Yellow,#FFDB58,Maroon,#800000,68,Low,All Seasons,Party,70,Relaxed
-Lavender,#E6E6FA,Maroon,#800000,95,Low,Fall/Winter,Formal,55,Bold
-Olive Green,#808000,White,#FFFFFF,65,Medium,All Seasons,Party,84,Classic
-White,#FFFFFF,Teal,#008080,94,High,All Seasons,Casual,75,Relaxed
-Charcoal Gray,#36454F,Denim Blue,#1560BD,65,Low,Spring/Summer,Casual,86,Relaxed
-Crimson,#DC143C,Navy Blue,#000080,74,Low,Spring/Summer,Formal,59,Sophisticated
-Mustard Yellow,#FFDB58,Teal,#008080,64,Medium,Spring/Summer,Casual,52,Relaxed
-Charcoal Gray,#36454F,Beige,#F5F5DC,60,High,All Seasons,Party,95,Energetic
-White,#FFFFFF,Gray,#808080,64,Low,Spring/Summer,Formal,90,Relaxed
-Sky Blue,#87CEEB,Gray,#808080,79,High,Spring/Summer,Party,88,Sophisticated
-Sky Blue,#87CEEB,Maroon,#800000,96,Low,All Seasons,Casual,81,Classic
-Black,#000000,Burnt Orange,#CC5500,89,Low,Fall/Winter,Party,65,Energetic
-White,#FFFFFF,Maroon,#800000,77,Low,Fall/Winter,Casual,89,Bold
-Turquoise,#40E0D0,Burnt Orange,#CC5500,77,Medium,All Seasons,Party,62,Relaxed
-Mustard Yellow,#FFDB58,White,#FFFFFF,78,Low,Fall/Winter,Casual,93,Classic
-Charcoal Gray,#36454F,Black,#000000,78,High,All Seasons,Formal,100,Classic
-Sky Blue,#87CEEB,Burnt Orange,#CC5500,83,High,Spring/Summer,Casual,59,Bold
-Crimson,#DC143C,Teal,#008080,90,Medium,All Seasons,Casual,68,Classic
-Lavender,#E6E6FA,Beige,#F5F5DC,79,High,All Seasons,Formal,91,Relaxed
-White,#FFFFFF,Maroon,#800000,95,Low,Fall/Winter,Party,99,Bold
-Turquoise,#40E0D0,Denim Blue,#1560BD,93,Low,All Seasons,Formal,80,Sophisticated
-Coral,#FF7F50,Navy Blue,#000080,70,High,All Seasons,Party,63,Relaxed
-Sky Blue,#87CEEB,Gray,#808080,72,Medium,Fall/Winter,Casual,94,Energetic
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,75,Medium,Spring/Summer,Party,60,Energetic
-Black,#000000,Burnt Orange,#CC5500,71,Medium,Spring/Summer,Party,83,Relaxed
-Lavender,#E6E6FA,Gray,#808080,77,Medium,All Seasons,Casual,84,Relaxed
-Crimson,#DC143C,Beige,#F5F5DC,84,Medium,All Seasons,Formal,58,Bold
-Lavender,#E6E6FA,Navy Blue,#000080,65,Medium,Spring/Summer,Party,96,Sophisticated
-Lavender,#E6E6FA,White,#FFFFFF,79,High,Spring/Summer,Party,87,Energetic
-Charcoal Gray,#36454F,White,#FFFFFF,100,Medium,Fall/Winter,Party,61,Bold
-Sky Blue,#87CEEB,Navy Blue,#000080,63,High,Fall/Winter,Casual,70,Classic
-Black,#000000,Khaki,#C3B091,90,Medium,Spring/Summer,Party,92,Relaxed
-Mustard Yellow,#FFDB58,Khaki,#C3B091,97,Low,Spring/Summer,Formal,76,Sophisticated
-Turquoise,#40E0D0,Beige,#F5F5DC,91,Medium,Spring/Summer,Formal,77,Bold
-Sky Blue,#87CEEB,Khaki,#C3B091,61,Medium,All Seasons,Party,61,Energetic
-Crimson,#DC143C,Black,#000000,91,Medium,All Seasons,Party,85,Classic
-Lavender,#E6E6FA,White,#FFFFFF,76,Low,Fall/Winter,Formal,60,Relaxed
-Lavender,#E6E6FA,Black,#000000,89,Medium,All Seasons,Casual,84,Classic
-Black,#000000,Khaki,#C3B091,77,Low,Fall/Winter,Party,63,Bold
-Mustard Yellow,#FFDB58,Navy Blue,#000080,84,High,Fall/Winter,Party,91,Classic
-Turquoise,#40E0D0,Khaki,#C3B091,66,High,Spring/Summer,Formal,100,Energetic
-Crimson,#DC143C,Navy Blue,#000080,86,Medium,Spring/Summer,Party,86,Sophisticated
-Lavender,#E6E6FA,Maroon,#800000,98,High,All Seasons,Casual,96,Relaxed
-Sky Blue,#87CEEB,Black,#000000,94,Medium,All Seasons,Casual,62,Sophisticated
-Olive Green,#808000,Burnt Orange,#CC5500,80,High,Fall/Winter,Formal,62,Sophisticated
-Turquoise,#40E0D0,White,#FFFFFF,100,High,Spring/Summer,Party,92,Energetic
-Crimson,#DC143C,Khaki,#C3B091,95,Medium,Fall/Winter,Party,94,Relaxed
-Black,#000000,Beige,#F5F5DC,86,Medium,Fall/Winter,Casual,89,Relaxed
-Mustard Yellow,#FFDB58,Denim Blue,#1560BD,78,Low,Spring/Summer,Casual,84,Energetic
-Sky Blue,#87CEEB,Black,#000000,79,Low,Spring/Summer,Party,90,Relaxed
-Sky Blue,#87CEEB,Teal,#008080,80,Medium,All Seasons,Casual,57,Bold
-Lavender,#E6E6FA,White,#FFFFFF,60,High,All Seasons,Party,65,Sophisticated
-Lavender,#E6E6FA,Denim Blue,#1560BD,83,Low,Spring/Summer,Party,70,Relaxed
-Black,#000000,Denim Blue,#1560BD,91,Medium,Spring/Summer,Formal,55,Energetic
-Lavender,#E6E6FA,Teal,#008080,60,Medium,Fall/Winter,Formal,82,Relaxed
-Sky Blue,#87CEEB,Khaki,#C3B091,80,Medium,All Seasons,Party,92,Sophisticated
-Black,#000000,Gray,#808080,76,Medium,Spring/Summer,Formal,68,Relaxed
-Coral,#FF7F50,Denim Blue,#1560BD,86,Low,All Seasons,Party,64,Relaxed
-Sky Blue,#87CEEB,Denim Blue,#1560BD,70,Low,Fall/Winter,Party,56,Sophisticated
-Turquoise,#40E0D0,Navy Blue,#000080,67,High,Fall/Winter,Formal,79,Bold
-Olive Green,#808000,Burnt Orange,#CC5500,79,Medium,All Seasons,Casual,98,Classic
-Mustard Yellow,#FFDB58,Navy Blue,#000080,99,High,Spring/Summer,Casual,80,Sophisticated
-Black,#000000,Gray,#808080,62,High,Spring/Summer,Casual,59,Relaxed
-Olive Green,#808000,Beige,#F5F5DC,78,Medium,Fall/Winter,Formal,83,Relaxed
-White,#FFFFFF,Black,#000000,60,Low,Spring/Summer,Party,80,Energetic
-Black,#000000,Navy Blue,#000080,91,Medium,All Seasons,Casual,67,Energetic
-Lavender,#E6E6FA,Burnt Orange,#CC5500,83,Low,Fall/Winter,Casual,90,Classic
-White,#FFFFFF,Maroon,#800000,96,Medium,Fall/Winter,Casual,57,Sophisticated
-Crimson,#DC143C,Navy Blue,#000080,95,Low,Spring/Summer,Formal,98,Bold
-Turquoise,#40E0D0,Gray,#808080,81,High,All Seasons,Formal,77,Energetic
-White,#FFFFFF,Maroon,#800000,64,High,Fall/Winter,Party,59,Energetic
-Mustard Yellow,#FFDB58,Navy Blue,#000080,79,Medium,Spring/Summer,Party,71,Bold
-Lavender,#E6E6FA,Teal,#008080,87,High,Spring/Summer,Party,60,Classic
-Coral,#FF7F50,Beige,#F5F5DC,60,High,All Seasons,Party,95,Classic
-Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,83,Low,All Seasons,Formal,75,Classic
-Sky Blue,#87CEEB,Maroon,#800000,64,Low,Spring/Summer,Party,60,Bold
-Charcoal Gray,#36454F,Denim Blue,#1560BD,92,High,Spring/Summer,Casual,54,Sophisticated
-Lavender,#E6E6FA,Maroon,#800000,97,Low,All Seasons,Party,96,Sophisticated
-Mustard Yellow,#FFDB58,Denim Blue,#1560BD,94,Low,All Seasons,Formal,88,Energetic
-Olive Green,#808000,Navy Blue,#000080,78,Low,Spring/Summer,Formal,79,Energetic
-Turquoise,#40E0D0,Gray,#808080,64,High,Spring/Summer,Formal,81,Classic
-Turquoise,#40E0D0,Denim Blue,#1560BD,92,High,Spring/Summer,Formal,60,Relaxed
-Lavender,#E6E6FA,Navy Blue,#000080,81,High,Fall/Winter,Party,63,Bold
-Crimson,#DC143C,Teal,#008080,70,Low,Fall/Winter,Casual,56,Bold
-Mustard Yellow,#FFDB58,Black,#000000,69,Low,Spring/Summer,Formal,83,Relaxed
-Olive Green,#808000,Black,#000000,72,Medium,Fall/Winter,Party,58,Bold
-Turquoise,#40E0D0,Beige,#F5F5DC,67,High,All Seasons,Casual,60,Bold
-Charcoal Gray,#36454F,Gray,#808080,86,High,All Seasons,Formal,85,Sophisticated
-White,#FFFFFF,Burnt Orange,#CC5500,83,Medium,Spring/Summer,Formal,70,Classic
-Lavender,#E6E6FA,Burnt Orange,#CC5500,68,Low,Spring/Summer,Formal,73,Relaxed
-Mustard Yellow,#FFDB58,Navy Blue,#000080,60,Medium,All Seasons,Party,95,Relaxed
-Crimson,#DC143C,Navy Blue,#000080,99,Low,Spring/Summer,Formal,72,Sophisticated
-White,#FFFFFF,Black,#000000,78,Medium,Fall/Winter,Casual,62,Sophisticated
-Olive Green,#808000,Denim Blue,#1560BD,90,Low,Spring/Summer,Party,57,Energetic
-Black,#000000,White,#FFFFFF,72,Medium,All Seasons,Casual,64,Sophisticated
-Charcoal Gray,#36454F,Burnt Orange,#CC5500,98,Medium,All Seasons,Party,92,Energetic
-Mustard Yellow,#FFDB58,Maroon,#800000,77,Medium,All Seasons,Party,57,Energetic
-Crimson,#DC143C,Gray,#808080,60,Low,Spring/Summer,Casual,78,Energetic
-Charcoal Gray,#36454F,Maroon,#800000,86,Low,All Seasons,Formal,62,Classic
-Lavender,#E6E6FA,Black,#000000,94,Low,All Seasons,Party,66,Bold
-Black,#000000,Maroon,#800000,87,High,Spring/Summer,Formal,63,Classic
-Coral,#FF7F50,Khaki,#C3B091,100,High,Fall/Winter,Formal,83,Classic
-Olive Green,#808000,Burnt Orange,#CC5500,90,High,All Seasons,Formal,53,Bold
-Turquoise,#40E0D0,Gray,#808080,74,Medium,Fall/Winter,Party,98,Energetic
-Turquoise,#40E0D0,Navy Blue,#000080,86,Low,Fall/Winter,Party,51,Relaxed
-Turquoise,#40E0D0,Gray,#808080,98,High,Spring/Summer,Formal,67,Relaxed
-Sky Blue,#87CEEB,Khaki,#C3B091,64,High,Fall/Winter,Casual,93,Relaxed
-Coral,#FF7F50,Black,#000000,72,Medium,Fall/Winter,Casual,77,Classic
-Coral,#FF7F50,Khaki,#C3B091,68,High,All Seasons,Casual,88,Energetic
-Mustard Yellow,#FFDB58,Maroon,#800000,74,Medium,All Seasons,Casual,56,Relaxed
-Coral,#FF7F50,Beige,#F5F5DC,91,Medium,Spring/Summer,Casual,75,Relaxed
-White,#FFFFFF,Burnt Orange,#CC5500,83,Low,Fall/Winter,Party,69,Classic
-Coral,#FF7F50,Navy Blue,#000080,95,Medium,All Seasons,Casual,83,Classic
-Olive Green,#808000,Black,#000000,68,Low,Spring/Summer,Casual,99,Relaxed
-White,#FFFFFF,Beige,#F5F5DC,99,Medium,Spring/Summer,Formal,100,Relaxed
-White,#FFFFFF,White,#FFFFFF,84,Low,All Seasons,Casual,79,Classic
-Crimson,#DC143C,Teal,#008080,75,Low,Spring/Summer,Formal,92,Bold
-Coral,#FF7F50,Gray,#808080,77,High,Fall/Winter,Party,56,Relaxed
-Black,#000000,Beige,#F5F5DC,71,Low,Spring/Summer,Casual,86,Relaxed
-Lavender,#E6E6FA,Denim Blue,#1560BD,61,Low,Fall/Winter,Party,60,Relaxed
-White,#FFFFFF,Gray,#808080,61,Low,Fall/Winter,Casual,59,Sophisticated
+Topwear_Color_Name,Topwear_Hex,Bottomwear_Color_Name,Bottomwear_Hex,Contrast_Score,Trend_Alignment,Season,Occasion,Popularity_Score,Mood_Conveyed,Time_of_Day_Preference,Skin_Tone_Compatibility
+Mustard Yellow,#FFDB58,Beige,#F5F5DC,61,Low,All Seasons,Formal,78,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,80,Low,Fall/Winter,Party,91,Sophisticated,Night,Universal
+Black,#000000,Denim Blue,#1560BD,96,High,All Seasons,Casual,56,Classic,Night,Universal
+Coral,#FF7F50,Gray,#808080,69,High,All Seasons,Formal,71,Relaxed,Night,Universal
+Coral,#FF7F50,Black,#000000,61,High,Spring/Summer,Casual,59,Classic,Night,Universal
+Crimson,#DC143C,Burnt Orange,#CC5500,70,Medium,Spring/Summer,Formal,62,Classic,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,67,Medium,All Seasons,Party,89,Bold,Night,Universal
+Sky Blue,#87CEEB,White,#FFFFFF,89,High,Spring/Summer,Party,51,Relaxed,Night,Universal
+Black,#000000,White,#FFFFFF,82,Medium,Spring/Summer,Formal,75,Energetic,Night,Universal
+Coral,#FF7F50,Teal,#008080,87,Low,Fall/Winter,Party,99,Energetic,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,72,High,All Seasons,Party,89,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Teal,#008080,91,Low,All Seasons,Casual,69,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,78,High,Spring/Summer,Casual,73,Energetic,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,77,High,All Seasons,Party,51,Bold,Night,Universal
+Turquoise,#40E0D0,Black,#000000,73,Medium,Spring/Summer,Formal,73,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Denim Blue,#1560BD,72,Medium,Fall/Winter,Casual,91,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Teal,#008080,68,Medium,Spring/Summer,Formal,69,Classic,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,96,Medium,Fall/Winter,Formal,82,Sophisticated,Night,Universal
+Crimson,#DC143C,Beige,#F5F5DC,85,Medium,All Seasons,Formal,92,Sophisticated,Night,Universal
+Crimson,#DC143C,Maroon,#800000,64,Medium,All Seasons,Formal,71,Bold,Night,Universal
+Coral,#FF7F50,Burnt Orange,#CC5500,67,High,Fall/Winter,Formal,65,Relaxed,Night,Universal
+Charcoal Gray,#36454F,White,#FFFFFF,73,Medium,Fall/Winter,Party,87,Energetic,Night,Universal
+Turquoise,#40E0D0,Khaki,#C3B091,88,High,Spring/Summer,Formal,79,Classic,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,99,Low,Spring/Summer,Formal,79,Bold,Night,Universal
+Coral,#FF7F50,Denim Blue,#1560BD,100,Low,All Seasons,Casual,76,Bold,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,67,High,Fall/Winter,Casual,90,Energetic,Night,Universal
+Crimson,#DC143C,Denim Blue,#1560BD,92,Medium,All Seasons,Party,66,Classic,Night,Universal
+Turquoise,#40E0D0,White,#FFFFFF,61,Medium,Spring/Summer,Formal,51,Classic,Night,Universal
+Black,#000000,Denim Blue,#1560BD,84,High,Fall/Winter,Formal,66,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,66,Low,All Seasons,Party,92,Sophisticated,Night,Universal
+Olive Green,#808000,Gray,#808080,83,High,Spring/Summer,Party,88,Classic,Night,Universal
+White,#FFFFFF,Maroon,#800000,94,Low,Fall/Winter,Party,67,Sophisticated,Night,Universal
+Olive Green,#808000,Beige,#F5F5DC,75,Medium,Fall/Winter,Casual,60,Relaxed,Night,Universal
+Olive Green,#808000,Teal,#008080,60,Low,Fall/Winter,Party,56,Energetic,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,86,Medium,All Seasons,Party,79,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Gray,#808080,85,Medium,Spring/Summer,Casual,69,Relaxed,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,81,Low,All Seasons,Casual,56,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Teal,#008080,67,High,Fall/Winter,Formal,57,Classic,Night,Universal
+Coral,#FF7F50,Burnt Orange,#CC5500,76,Low,Spring/Summer,Casual,100,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Khaki,#C3B091,98,Medium,Spring/Summer,Formal,61,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,83,High,Fall/Winter,Casual,69,Energetic,Night,Universal
+Olive Green,#808000,Maroon,#800000,100,High,All Seasons,Party,96,Sophisticated,Night,Universal
+Crimson,#DC143C,Black,#000000,88,High,All Seasons,Party,75,Sophisticated,Night,Universal
+White,#FFFFFF,Gray,#808080,70,High,Spring/Summer,Party,82,Bold,Night,Universal
+Coral,#FF7F50,Burnt Orange,#CC5500,66,Medium,Spring/Summer,Formal,97,Relaxed,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,88,High,Spring/Summer,Formal,53,Energetic,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,94,Low,All Seasons,Casual,71,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Navy Blue,#000080,88,Medium,All Seasons,Casual,74,Classic,Night,Universal
+Crimson,#DC143C,Black,#000000,90,Medium,Spring/Summer,Formal,57,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,94,Low,Fall/Winter,Party,50,Classic,Night,Universal
+Turquoise,#40E0D0,White,#FFFFFF,88,Medium,All Seasons,Party,68,Energetic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,86,High,Fall/Winter,Casual,89,Relaxed,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,63,Medium,Fall/Winter,Party,97,Classic,Night,Universal
+White,#FFFFFF,Teal,#008080,97,Medium,Fall/Winter,Casual,57,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Denim Blue,#1560BD,83,High,Spring/Summer,Formal,76,Relaxed,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,69,High,Spring/Summer,Party,87,Classic,Night,Universal
+Sky Blue,#87CEEB,Burnt Orange,#CC5500,72,High,All Seasons,Formal,99,Bold,Night,Universal
+Turquoise,#40E0D0,Black,#000000,84,Low,Fall/Winter,Party,85,Bold,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,62,Low,Fall/Winter,Casual,52,Classic,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,62,Low,Spring/Summer,Party,74,Energetic,Night,Universal
+Lavender,#E6E6FA,Khaki,#C3B091,85,High,Fall/Winter,Formal,67,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,76,High,Spring/Summer,Formal,64,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,78,Low,All Seasons,Casual,51,Relaxed,Night,Universal
+Olive Green,#808000,Black,#000000,92,High,Spring/Summer,Casual,86,Classic,Night,Universal
+White,#FFFFFF,Black,#000000,82,Low,All Seasons,Formal,59,Sophisticated,Night,Universal
+White,#FFFFFF,Beige,#F5F5DC,72,Low,Fall/Winter,Formal,76,Classic,Night,Universal
+Charcoal Gray,#36454F,Maroon,#800000,88,Medium,All Seasons,Casual,57,Relaxed,Night,Universal
+Crimson,#DC143C,Teal,#008080,67,High,Fall/Winter,Casual,65,Sophisticated,Night,Universal
+White,#FFFFFF,Black,#000000,89,High,All Seasons,Formal,95,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Khaki,#C3B091,74,High,All Seasons,Formal,69,Energetic,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,100,Medium,All Seasons,Casual,77,Energetic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,72,Medium,Fall/Winter,Casual,53,Sophisticated,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,77,Low,Spring/Summer,Formal,75,Classic,Night,Universal
+White,#FFFFFF,Khaki,#C3B091,96,Medium,All Seasons,Formal,95,Energetic,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,94,Low,Spring/Summer,Formal,80,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Beige,#F5F5DC,97,Low,Spring/Summer,Casual,91,Relaxed,Night,Universal
+Black,#000000,Navy Blue,#000080,82,Low,Fall/Winter,Casual,94,Energetic,Night,Universal
+Turquoise,#40E0D0,Denim Blue,#1560BD,61,High,Fall/Winter,Casual,77,Bold,Night,Universal
+Turquoise,#40E0D0,Burnt Orange,#CC5500,90,High,Fall/Winter,Formal,97,Bold,Night,Universal
+Sky Blue,#87CEEB,Teal,#008080,69,Medium,Spring/Summer,Formal,63,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,67,Low,Fall/Winter,Formal,52,Bold,Night,Universal
+Crimson,#DC143C,Denim Blue,#1560BD,95,High,All Seasons,Party,70,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,85,Low,Spring/Summer,Casual,58,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Khaki,#C3B091,65,Medium,Fall/Winter,Formal,81,Bold,Night,Universal
+Coral,#FF7F50,Maroon,#800000,65,Medium,All Seasons,Party,64,Classic,Night,Universal
+Black,#000000,Beige,#F5F5DC,66,Low,Fall/Winter,Casual,84,Energetic,Night,Universal
+Black,#000000,Gray,#808080,82,Low,Fall/Winter,Party,89,Relaxed,Night,Universal
+Coral,#FF7F50,Gray,#808080,79,Medium,Spring/Summer,Party,50,Relaxed,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,93,Low,Spring/Summer,Party,97,Relaxed,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,100,High,All Seasons,Casual,73,Sophisticated,Night,Universal
+White,#FFFFFF,Maroon,#800000,90,High,Fall/Winter,Formal,86,Energetic,Night,Universal
+Black,#000000,White,#FFFFFF,60,High,Spring/Summer,Casual,61,Classic,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,93,Low,Spring/Summer,Party,64,Sophisticated,Night,Universal
+Olive Green,#808000,Black,#000000,76,High,Spring/Summer,Party,73,Bold,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,95,High,All Seasons,Casual,96,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Beige,#F5F5DC,77,Medium,Fall/Winter,Formal,92,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,78,Low,Spring/Summer,Formal,80,Classic,Night,Universal
+Charcoal Gray,#36454F,Maroon,#800000,80,Medium,All Seasons,Party,86,Energetic,Night,Universal
+Black,#000000,Black,#000000,99,Low,Fall/Winter,Casual,89,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,96,Low,Spring/Summer,Party,91,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Gray,#808080,91,High,Fall/Winter,Party,60,Classic,Night,Universal
+Black,#000000,Teal,#008080,100,High,Spring/Summer,Party,92,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,White,#FFFFFF,96,High,All Seasons,Party,53,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,82,High,All Seasons,Party,88,Bold,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,96,Medium,Fall/Winter,Party,73,Sophisticated,Night,Universal
+Coral,#FF7F50,Teal,#008080,90,Medium,Fall/Winter,Party,52,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,62,Medium,All Seasons,Casual,62,Energetic,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,65,Low,All Seasons,Party,55,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Khaki,#C3B091,79,High,Fall/Winter,Formal,60,Energetic,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,61,Low,All Seasons,Formal,50,Energetic,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,100,Medium,All Seasons,Formal,67,Bold,Night,Universal
+Turquoise,#40E0D0,Black,#000000,65,Medium,Fall/Winter,Formal,99,Relaxed,Night,Universal
+White,#FFFFFF,Gray,#808080,78,High,All Seasons,Casual,74,Relaxed,Night,Universal
+Turquoise,#40E0D0,Burnt Orange,#CC5500,93,High,All Seasons,Party,73,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Black,#000000,67,High,Spring/Summer,Casual,70,Energetic,Night,Universal
+Olive Green,#808000,Beige,#F5F5DC,60,Low,Spring/Summer,Party,91,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Gray,#808080,79,High,All Seasons,Casual,64,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Maroon,#800000,100,High,Spring/Summer,Party,74,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,87,High,All Seasons,Casual,96,Energetic,Night,Universal
+Sky Blue,#87CEEB,Teal,#008080,82,Medium,Spring/Summer,Formal,100,Classic,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,90,Low,All Seasons,Casual,67,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,81,Low,Fall/Winter,Formal,74,Energetic,Night,Universal
+Coral,#FF7F50,Denim Blue,#1560BD,80,Low,Fall/Winter,Casual,69,Classic,Night,Universal
+White,#FFFFFF,Beige,#F5F5DC,88,Medium,All Seasons,Formal,53,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,68,High,Spring/Summer,Party,77,Classic,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,98,Low,All Seasons,Party,93,Sophisticated,Night,Universal
+Crimson,#DC143C,Teal,#008080,72,Medium,Fall/Winter,Party,54,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Teal,#008080,92,Low,All Seasons,Party,98,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Black,#000000,92,High,All Seasons,Formal,66,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Black,#000000,87,Medium,Fall/Winter,Formal,95,Classic,Night,Universal
+Olive Green,#808000,Gray,#808080,75,Medium,Spring/Summer,Formal,55,Sophisticated,Night,Universal
+Crimson,#DC143C,Burnt Orange,#CC5500,61,Medium,Spring/Summer,Party,85,Classic,Night,Universal
+Sky Blue,#87CEEB,Denim Blue,#1560BD,76,Medium,Fall/Winter,Formal,74,Energetic,Night,Universal
+Black,#000000,Gray,#808080,67,Medium,Fall/Winter,Formal,88,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,62,Medium,Fall/Winter,Formal,82,Energetic,Night,Universal
+White,#FFFFFF,Navy Blue,#000080,73,Medium,All Seasons,Casual,54,Sophisticated,Night,Universal
+Olive Green,#808000,Black,#000000,82,High,All Seasons,Casual,70,Bold,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,93,High,Spring/Summer,Party,94,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Teal,#008080,89,High,All Seasons,Casual,100,Energetic,Night,Universal
+Turquoise,#40E0D0,White,#FFFFFF,82,High,Spring/Summer,Party,94,Bold,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,81,High,Spring/Summer,Party,54,Classic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,64,Low,All Seasons,Formal,61,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,95,Medium,Fall/Winter,Casual,80,Bold,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,100,High,Fall/Winter,Casual,71,Energetic,Night,Universal
+Charcoal Gray,#36454F,White,#FFFFFF,92,High,Fall/Winter,Party,80,Energetic,Night,Universal
+Charcoal Gray,#36454F,Navy Blue,#000080,76,Low,Fall/Winter,Party,77,Relaxed,Night,Universal
+Olive Green,#808000,White,#FFFFFF,74,Medium,Spring/Summer,Party,98,Energetic,Night,Universal
+Olive Green,#808000,Navy Blue,#000080,65,Medium,All Seasons,Casual,95,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,62,Medium,All Seasons,Formal,58,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Khaki,#C3B091,80,Medium,Spring/Summer,Casual,50,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,94,Low,All Seasons,Party,80,Classic,Night,Universal
+White,#FFFFFF,Denim Blue,#1560BD,67,Medium,All Seasons,Casual,89,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Teal,#008080,100,Low,All Seasons,Casual,96,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,84,Medium,All Seasons,Casual,93,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Maroon,#800000,76,Medium,Fall/Winter,Casual,53,Bold,Night,Universal
+Turquoise,#40E0D0,Teal,#008080,93,Low,Fall/Winter,Party,80,Energetic,Night,Universal
+White,#FFFFFF,Beige,#F5F5DC,91,Medium,Spring/Summer,Party,67,Bold,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,97,Medium,Fall/Winter,Casual,64,Bold,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,84,Medium,Fall/Winter,Formal,68,Relaxed,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,88,Low,All Seasons,Formal,61,Bold,Night,Universal
+White,#FFFFFF,Teal,#008080,71,High,Spring/Summer,Casual,98,Sophisticated,Night,Universal
+White,#FFFFFF,Burnt Orange,#CC5500,100,Medium,All Seasons,Casual,81,Bold,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,81,Low,Fall/Winter,Casual,71,Relaxed,Night,Universal
+Crimson,#DC143C,Denim Blue,#1560BD,90,High,Fall/Winter,Party,96,Classic,Night,Universal
+Olive Green,#808000,Khaki,#C3B091,98,Low,All Seasons,Party,93,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Teal,#008080,93,Low,Spring/Summer,Casual,58,Relaxed,Night,Universal
+Olive Green,#808000,Khaki,#C3B091,87,Medium,Spring/Summer,Casual,54,Bold,Night,Universal
+Olive Green,#808000,White,#FFFFFF,80,High,All Seasons,Party,50,Sophisticated,Night,Universal
+Black,#000000,Teal,#008080,64,Medium,All Seasons,Formal,59,Bold,Night,Universal
+White,#FFFFFF,Denim Blue,#1560BD,93,High,Spring/Summer,Casual,69,Energetic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,100,Medium,Fall/Winter,Casual,71,Relaxed,Night,Universal
+Crimson,#DC143C,Burnt Orange,#CC5500,88,Low,Fall/Winter,Formal,86,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,White,#FFFFFF,81,Medium,All Seasons,Party,51,Sophisticated,Night,Universal
+Olive Green,#808000,White,#FFFFFF,68,High,Fall/Winter,Casual,99,Classic,Night,Universal
+Coral,#FF7F50,Gray,#808080,89,Low,Fall/Winter,Casual,68,Classic,Night,Universal
+White,#FFFFFF,Gray,#808080,63,Low,Fall/Winter,Formal,73,Bold,Night,Universal
+Charcoal Gray,#36454F,Navy Blue,#000080,78,High,Fall/Winter,Casual,63,Sophisticated,Night,Universal
+Black,#000000,Denim Blue,#1560BD,91,High,All Seasons,Party,94,Classic,Night,Universal
+White,#FFFFFF,Navy Blue,#000080,69,Medium,Spring/Summer,Formal,62,Bold,Night,Universal
+Olive Green,#808000,Black,#000000,83,High,Spring/Summer,Formal,98,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,64,Low,Fall/Winter,Party,85,Energetic,Night,Universal
+Charcoal Gray,#36454F,Teal,#008080,86,Low,Fall/Winter,Party,50,Classic,Night,Universal
+Crimson,#DC143C,Gray,#808080,64,High,Fall/Winter,Casual,100,Sophisticated,Night,Universal
+Black,#000000,Navy Blue,#000080,74,High,All Seasons,Casual,87,Bold,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,99,Low,Spring/Summer,Formal,55,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Maroon,#800000,78,Medium,All Seasons,Casual,79,Classic,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,77,Low,Spring/Summer,Casual,81,Energetic,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,77,Low,Spring/Summer,Casual,53,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Black,#000000,92,Medium,Spring/Summer,Formal,87,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Teal,#008080,71,High,All Seasons,Party,59,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,90,High,All Seasons,Formal,79,Classic,Night,Universal
+Black,#000000,Beige,#F5F5DC,77,High,All Seasons,Party,74,Energetic,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,72,High,Spring/Summer,Casual,72,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,75,High,All Seasons,Party,70,Bold,Night,Universal
+Sky Blue,#87CEEB,Denim Blue,#1560BD,76,Medium,Fall/Winter,Casual,61,Relaxed,Night,Universal
+Crimson,#DC143C,White,#FFFFFF,88,High,Spring/Summer,Party,96,Bold,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,67,Low,Spring/Summer,Casual,61,Relaxed,Night,Universal
+Black,#000000,Denim Blue,#1560BD,62,Low,All Seasons,Formal,65,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,62,High,Fall/Winter,Casual,58,Energetic,Night,Universal
+Charcoal Gray,#36454F,Denim Blue,#1560BD,94,Medium,Fall/Winter,Formal,56,Relaxed,Night,Universal
+Olive Green,#808000,Maroon,#800000,65,Low,Spring/Summer,Formal,100,Relaxed,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,90,Low,Fall/Winter,Casual,60,Classic,Night,Universal
+Sky Blue,#87CEEB,Teal,#008080,87,High,Spring/Summer,Party,71,Energetic,Night,Universal
+Coral,#FF7F50,Maroon,#800000,62,High,Spring/Summer,Party,90,Sophisticated,Night,Universal
+Black,#000000,Beige,#F5F5DC,96,Low,All Seasons,Casual,80,Relaxed,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,100,Medium,All Seasons,Casual,81,Classic,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,68,High,All Seasons,Casual,55,Bold,Night,Universal
+White,#FFFFFF,Khaki,#C3B091,72,High,All Seasons,Formal,67,Relaxed,Night,Universal
+Coral,#FF7F50,Maroon,#800000,86,Medium,All Seasons,Formal,95,Classic,Night,Universal
+Lavender,#E6E6FA,Maroon,#800000,66,Low,Fall/Winter,Casual,98,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,75,High,Spring/Summer,Formal,94,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Denim Blue,#1560BD,98,High,Spring/Summer,Casual,94,Bold,Night,Universal
+Sky Blue,#87CEEB,Burnt Orange,#CC5500,66,High,Fall/Winter,Casual,78,Bold,Night,Universal
+Coral,#FF7F50,Black,#000000,76,Medium,Fall/Winter,Casual,86,Relaxed,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,90,Low,Spring/Summer,Party,96,Energetic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,82,High,Spring/Summer,Casual,67,Energetic,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,71,High,All Seasons,Formal,55,Energetic,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,91,Medium,All Seasons,Party,84,Bold,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,85,High,All Seasons,Casual,73,Relaxed,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,80,Low,Spring/Summer,Party,90,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Khaki,#C3B091,73,Medium,Spring/Summer,Casual,84,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Black,#000000,60,Low,Fall/Winter,Party,52,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Denim Blue,#1560BD,97,Medium,Spring/Summer,Casual,98,Classic,Night,Universal
+Olive Green,#808000,Gray,#808080,95,Medium,Fall/Winter,Party,67,Sophisticated,Night,Universal
+Olive Green,#808000,Gray,#808080,80,High,Fall/Winter,Party,59,Sophisticated,Night,Universal
+Coral,#FF7F50,Maroon,#800000,60,Low,Fall/Winter,Party,75,Bold,Night,Universal
+White,#FFFFFF,Teal,#008080,62,Medium,All Seasons,Casual,50,Bold,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,87,Low,Spring/Summer,Party,98,Classic,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,64,High,Fall/Winter,Formal,58,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Beige,#F5F5DC,83,Low,Spring/Summer,Formal,93,Classic,Night,Universal
+Turquoise,#40E0D0,Teal,#008080,97,Medium,All Seasons,Formal,66,Relaxed,Night,Universal
+Lavender,#E6E6FA,Denim Blue,#1560BD,79,Low,Spring/Summer,Casual,90,Energetic,Night,Universal
+Black,#000000,Teal,#008080,78,High,Spring/Summer,Casual,51,Relaxed,Night,Universal
+White,#FFFFFF,Maroon,#800000,74,Low,All Seasons,Casual,63,Sophisticated,Night,Universal
+White,#FFFFFF,Denim Blue,#1560BD,71,High,Fall/Winter,Party,77,Relaxed,Night,Universal
+Olive Green,#808000,Black,#000000,87,Low,Fall/Winter,Formal,66,Classic,Night,Universal
+Coral,#FF7F50,Denim Blue,#1560BD,91,Medium,Spring/Summer,Party,67,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Burnt Orange,#CC5500,91,High,All Seasons,Formal,77,Bold,Night,Universal
+Charcoal Gray,#36454F,Khaki,#C3B091,69,Low,Fall/Winter,Party,99,Energetic,Night,Universal
+Charcoal Gray,#36454F,Teal,#008080,89,Low,Fall/Winter,Party,83,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,67,High,All Seasons,Party,98,Relaxed,Night,Universal
+White,#FFFFFF,Navy Blue,#000080,94,Low,All Seasons,Casual,87,Bold,Night,Universal
+Olive Green,#808000,Gray,#808080,62,Low,Fall/Winter,Party,59,Bold,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,70,High,Fall/Winter,Casual,71,Bold,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,73,High,All Seasons,Formal,59,Bold,Night,Universal
+Coral,#FF7F50,Gray,#808080,95,Medium,All Seasons,Formal,89,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,65,Low,All Seasons,Casual,99,Relaxed,Night,Universal
+Olive Green,#808000,Beige,#F5F5DC,89,Low,Fall/Winter,Formal,63,Relaxed,Night,Universal
+Turquoise,#40E0D0,Black,#000000,67,Low,All Seasons,Formal,89,Classic,Night,Universal
+Sky Blue,#87CEEB,Denim Blue,#1560BD,88,High,All Seasons,Casual,70,Bold,Night,Universal
+Turquoise,#40E0D0,Black,#000000,61,Medium,Fall/Winter,Party,67,Relaxed,Night,Universal
+Sky Blue,#87CEEB,White,#FFFFFF,83,High,Spring/Summer,Party,74,Bold,Night,Universal
+Black,#000000,Black,#000000,86,High,All Seasons,Party,69,Bold,Night,Universal
+Crimson,#DC143C,Navy Blue,#000080,60,Medium,Fall/Winter,Formal,98,Bold,Night,Universal
+Coral,#FF7F50,Black,#000000,100,Low,Spring/Summer,Casual,76,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Khaki,#C3B091,69,Medium,All Seasons,Casual,86,Relaxed,Night,Universal
+Black,#000000,Black,#000000,88,Low,Spring/Summer,Casual,95,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Denim Blue,#1560BD,76,Low,Fall/Winter,Party,91,Relaxed,Night,Universal
+White,#FFFFFF,Khaki,#C3B091,92,Medium,All Seasons,Party,58,Bold,Night,Universal
+Turquoise,#40E0D0,Khaki,#C3B091,78,High,Spring/Summer,Casual,71,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,78,Medium,Spring/Summer,Casual,80,Energetic,Night,Universal
+Turquoise,#40E0D0,Denim Blue,#1560BD,82,Low,Fall/Winter,Casual,76,Energetic,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,73,Medium,Fall/Winter,Formal,52,Bold,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,77,Low,Fall/Winter,Party,68,Bold,Night,Universal
+Lavender,#E6E6FA,Khaki,#C3B091,88,Low,All Seasons,Formal,53,Relaxed,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,66,Low,Fall/Winter,Casual,96,Sophisticated,Night,Universal
+Black,#000000,Gray,#808080,60,High,Spring/Summer,Casual,95,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Maroon,#800000,100,High,Fall/Winter,Party,92,Bold,Night,Universal
+Turquoise,#40E0D0,White,#FFFFFF,79,Low,Spring/Summer,Casual,61,Relaxed,Night,Universal
+Black,#000000,Denim Blue,#1560BD,84,High,Spring/Summer,Party,53,Energetic,Night,Universal
+White,#FFFFFF,Navy Blue,#000080,75,Low,All Seasons,Party,90,Energetic,Night,Universal
+Black,#000000,Khaki,#C3B091,100,High,All Seasons,Party,66,Bold,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,74,High,Fall/Winter,Casual,68,Classic,Night,Universal
+Black,#000000,Beige,#F5F5DC,96,Medium,Spring/Summer,Party,61,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,72,Low,Spring/Summer,Formal,61,Classic,Night,Universal
+Olive Green,#808000,Maroon,#800000,98,Medium,Spring/Summer,Formal,61,Classic,Night,Universal
+Charcoal Gray,#36454F,Beige,#F5F5DC,60,High,Spring/Summer,Formal,67,Bold,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,75,Low,All Seasons,Formal,65,Classic,Night,Universal
+Black,#000000,Black,#000000,67,High,All Seasons,Formal,80,Bold,Night,Universal
+Lavender,#E6E6FA,Gray,#808080,63,Medium,Spring/Summer,Casual,59,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Black,#000000,93,Medium,Spring/Summer,Casual,55,Bold,Night,Universal
+Black,#000000,Teal,#008080,82,High,All Seasons,Party,58,Energetic,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,84,Low,Fall/Winter,Casual,94,Bold,Night,Universal
+Turquoise,#40E0D0,Teal,#008080,81,High,Spring/Summer,Formal,94,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Maroon,#800000,80,Medium,All Seasons,Casual,63,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Black,#000000,89,Low,Spring/Summer,Casual,70,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,62,High,All Seasons,Party,73,Energetic,Night,Universal
+Turquoise,#40E0D0,Khaki,#C3B091,97,Low,Spring/Summer,Formal,75,Relaxed,Night,Universal
+White,#FFFFFF,White,#FFFFFF,73,Low,Fall/Winter,Formal,55,Sophisticated,Night,Universal
+Crimson,#DC143C,Maroon,#800000,65,Low,Fall/Winter,Party,86,Sophisticated,Night,Universal
+Coral,#FF7F50,White,#FFFFFF,85,High,Fall/Winter,Party,83,Energetic,Night,Universal
+Sky Blue,#87CEEB,Denim Blue,#1560BD,87,Medium,Spring/Summer,Casual,54,Energetic,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,86,Low,Spring/Summer,Formal,71,Classic,Night,Universal
+Turquoise,#40E0D0,Black,#000000,72,High,All Seasons,Party,99,Bold,Night,Universal
+Lavender,#E6E6FA,Denim Blue,#1560BD,72,Medium,All Seasons,Formal,98,Energetic,Night,Universal
+Charcoal Gray,#36454F,White,#FFFFFF,63,High,Fall/Winter,Formal,94,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,71,Low,Spring/Summer,Formal,79,Relaxed,Night,Universal
+Crimson,#DC143C,Gray,#808080,81,High,Fall/Winter,Formal,77,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Teal,#008080,91,Medium,All Seasons,Casual,88,Energetic,Night,Universal
+Charcoal Gray,#36454F,Navy Blue,#000080,70,High,All Seasons,Party,76,Energetic,Night,Universal
+Crimson,#DC143C,Black,#000000,67,High,Spring/Summer,Formal,77,Classic,Night,Universal
+Black,#000000,Gray,#808080,83,High,All Seasons,Casual,51,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Maroon,#800000,70,High,Spring/Summer,Casual,63,Sophisticated,Night,Universal
+Crimson,#DC143C,White,#FFFFFF,99,Low,Fall/Winter,Party,91,Relaxed,Night,Universal
+Olive Green,#808000,Teal,#008080,74,High,Spring/Summer,Party,56,Bold,Night,Universal
+Sky Blue,#87CEEB,Burnt Orange,#CC5500,76,High,Spring/Summer,Formal,69,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Black,#000000,76,Low,Fall/Winter,Party,91,Classic,Night,Universal
+Olive Green,#808000,Beige,#F5F5DC,100,Low,Spring/Summer,Formal,58,Relaxed,Night,Universal
+Olive Green,#808000,White,#FFFFFF,85,High,Spring/Summer,Casual,69,Bold,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,79,Low,All Seasons,Party,73,Energetic,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,81,Medium,Spring/Summer,Party,63,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,77,High,All Seasons,Party,94,Energetic,Night,Universal
+White,#FFFFFF,White,#FFFFFF,95,Medium,All Seasons,Party,92,Classic,Night,Universal
+Charcoal Gray,#36454F,Black,#000000,95,Low,All Seasons,Party,77,Energetic,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,91,Low,All Seasons,Party,65,Energetic,Night,Universal
+Coral,#FF7F50,Teal,#008080,91,Low,Fall/Winter,Party,89,Bold,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,78,Low,Fall/Winter,Formal,74,Energetic,Night,Universal
+Black,#000000,Denim Blue,#1560BD,75,Low,Fall/Winter,Formal,74,Sophisticated,Night,Universal
+Coral,#FF7F50,Teal,#008080,80,High,Spring/Summer,Formal,93,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,76,Low,All Seasons,Casual,51,Energetic,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,78,Medium,All Seasons,Formal,58,Sophisticated,Night,Universal
+White,#FFFFFF,Navy Blue,#000080,74,Medium,All Seasons,Party,68,Classic,Night,Universal
+Crimson,#DC143C,Khaki,#C3B091,92,Low,Spring/Summer,Casual,52,Energetic,Night,Universal
+Charcoal Gray,#36454F,Navy Blue,#000080,94,Low,Spring/Summer,Formal,60,Energetic,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,61,Low,Fall/Winter,Party,93,Energetic,Night,Universal
+Black,#000000,Teal,#008080,74,High,Spring/Summer,Casual,77,Bold,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,96,Medium,Spring/Summer,Party,61,Relaxed,Night,Universal
+Crimson,#DC143C,White,#FFFFFF,66,Low,All Seasons,Casual,69,Classic,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,62,Medium,All Seasons,Casual,58,Relaxed,Night,Universal
+Turquoise,#40E0D0,Burnt Orange,#CC5500,69,Medium,Fall/Winter,Casual,66,Bold,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,98,Low,Spring/Summer,Casual,58,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Gray,#808080,82,Medium,All Seasons,Formal,93,Relaxed,Night,Universal
+Black,#000000,White,#FFFFFF,72,Low,Spring/Summer,Party,86,Relaxed,Night,Universal
+White,#FFFFFF,Khaki,#C3B091,90,Low,Fall/Winter,Party,75,Classic,Night,Universal
+Sky Blue,#87CEEB,Beige,#F5F5DC,71,Medium,Fall/Winter,Casual,72,Relaxed,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,73,Medium,All Seasons,Formal,81,Bold,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,100,High,All Seasons,Formal,66,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,70,Medium,All Seasons,Formal,59,Bold,Night,Universal
+Olive Green,#808000,Maroon,#800000,70,Medium,All Seasons,Party,58,Classic,Night,Universal
+Charcoal Gray,#36454F,Maroon,#800000,93,High,Fall/Winter,Party,97,Bold,Night,Universal
+Mustard Yellow,#FFDB58,White,#FFFFFF,81,High,Spring/Summer,Casual,56,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,95,Medium,All Seasons,Party,61,Energetic,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,88,Medium,Fall/Winter,Formal,65,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Maroon,#800000,84,High,Fall/Winter,Formal,65,Classic,Night,Universal
+White,#FFFFFF,Maroon,#800000,73,Low,Spring/Summer,Party,91,Relaxed,Night,Universal
+White,#FFFFFF,Gray,#808080,78,High,All Seasons,Casual,58,Energetic,Night,Universal
+Olive Green,#808000,Maroon,#800000,88,Medium,Fall/Winter,Formal,85,Relaxed,Night,Universal
+Olive Green,#808000,Black,#000000,93,High,Fall/Winter,Party,75,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,96,Medium,Spring/Summer,Party,58,Classic,Night,Universal
+Lavender,#E6E6FA,Denim Blue,#1560BD,84,Medium,Spring/Summer,Formal,77,Classic,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,68,High,All Seasons,Casual,56,Classic,Night,Universal
+Crimson,#DC143C,Black,#000000,94,High,All Seasons,Formal,50,Bold,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,87,Medium,All Seasons,Party,73,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Beige,#F5F5DC,63,High,Spring/Summer,Party,66,Bold,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,84,High,All Seasons,Casual,54,Classic,Night,Universal
+Mustard Yellow,#FFDB58,White,#FFFFFF,89,Low,Fall/Winter,Casual,73,Bold,Night,Universal
+Charcoal Gray,#36454F,Beige,#F5F5DC,93,High,Fall/Winter,Formal,88,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,96,High,All Seasons,Casual,74,Bold,Night,Universal
+Charcoal Gray,#36454F,Khaki,#C3B091,88,Low,Spring/Summer,Formal,73,Sophisticated,Night,Universal
+Black,#000000,Teal,#008080,90,High,Spring/Summer,Party,72,Sophisticated,Night,Universal
+Crimson,#DC143C,Maroon,#800000,81,Medium,All Seasons,Formal,80,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Beige,#F5F5DC,91,Low,All Seasons,Casual,60,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,White,#FFFFFF,82,High,All Seasons,Party,69,Energetic,Night,Universal
+Lavender,#E6E6FA,Maroon,#800000,95,Low,Spring/Summer,Formal,94,Energetic,Night,Universal
+Lavender,#E6E6FA,Khaki,#C3B091,90,Low,Fall/Winter,Casual,66,Sophisticated,Night,Universal
+Coral,#FF7F50,Teal,#008080,98,Medium,All Seasons,Party,76,Energetic,Night,Universal
+Black,#000000,Denim Blue,#1560BD,95,Medium,All Seasons,Party,84,Classic,Night,Universal
+Coral,#FF7F50,Teal,#008080,79,High,Spring/Summer,Casual,50,Bold,Night,Universal
+White,#FFFFFF,Gray,#808080,77,Medium,Spring/Summer,Party,98,Bold,Night,Universal
+Charcoal Gray,#36454F,Black,#000000,84,Medium,Fall/Winter,Party,97,Relaxed,Night,Universal
+White,#FFFFFF,Beige,#F5F5DC,86,High,All Seasons,Casual,57,Classic,Night,Universal
+Coral,#FF7F50,Teal,#008080,90,Low,All Seasons,Formal,84,Energetic,Night,Universal
+Coral,#FF7F50,Denim Blue,#1560BD,80,Medium,All Seasons,Party,86,Bold,Night,Universal
+Black,#000000,Maroon,#800000,64,Medium,Spring/Summer,Casual,81,Classic,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,69,High,Spring/Summer,Formal,93,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,80,Medium,Fall/Winter,Casual,84,Bold,Night,Universal
+Olive Green,#808000,Gray,#808080,68,Low,All Seasons,Formal,66,Relaxed,Night,Universal
+Black,#000000,Denim Blue,#1560BD,94,High,Spring/Summer,Formal,86,Bold,Night,Universal
+Crimson,#DC143C,White,#FFFFFF,91,High,All Seasons,Party,74,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,68,Low,All Seasons,Party,70,Relaxed,Night,Universal
+Lavender,#E6E6FA,Maroon,#800000,95,Low,Fall/Winter,Formal,55,Bold,Night,Universal
+Olive Green,#808000,White,#FFFFFF,65,Medium,All Seasons,Party,84,Classic,Night,Universal
+White,#FFFFFF,Teal,#008080,94,High,All Seasons,Casual,75,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Denim Blue,#1560BD,65,Low,Spring/Summer,Casual,86,Relaxed,Night,Universal
+Crimson,#DC143C,Navy Blue,#000080,74,Low,Spring/Summer,Formal,59,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Teal,#008080,64,Medium,Spring/Summer,Casual,52,Relaxed,Night,Universal
+Charcoal Gray,#36454F,Beige,#F5F5DC,60,High,All Seasons,Party,95,Energetic,Night,Universal
+White,#FFFFFF,Gray,#808080,64,Low,Spring/Summer,Formal,90,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,79,High,Spring/Summer,Party,88,Sophisticated,Night,Universal
+Sky Blue,#87CEEB,Maroon,#800000,96,Low,All Seasons,Casual,81,Classic,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,89,Low,Fall/Winter,Party,65,Energetic,Night,Universal
+White,#FFFFFF,Maroon,#800000,77,Low,Fall/Winter,Casual,89,Bold,Night,Universal
+Turquoise,#40E0D0,Burnt Orange,#CC5500,77,Medium,All Seasons,Party,62,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,White,#FFFFFF,78,Low,Fall/Winter,Casual,93,Classic,Night,Universal
+Charcoal Gray,#36454F,Black,#000000,78,High,All Seasons,Formal,100,Classic,Night,Universal
+Sky Blue,#87CEEB,Burnt Orange,#CC5500,83,High,Spring/Summer,Casual,59,Bold,Night,Universal
+Crimson,#DC143C,Teal,#008080,90,Medium,All Seasons,Casual,68,Classic,Night,Universal
+Lavender,#E6E6FA,Beige,#F5F5DC,79,High,All Seasons,Formal,91,Relaxed,Night,Universal
+White,#FFFFFF,Maroon,#800000,95,Low,Fall/Winter,Party,99,Bold,Night,Universal
+Turquoise,#40E0D0,Denim Blue,#1560BD,93,Low,All Seasons,Formal,80,Sophisticated,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,70,High,All Seasons,Party,63,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Gray,#808080,72,Medium,Fall/Winter,Casual,94,Energetic,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,75,Medium,Spring/Summer,Party,60,Energetic,Night,Universal
+Black,#000000,Burnt Orange,#CC5500,71,Medium,Spring/Summer,Party,83,Relaxed,Night,Universal
+Lavender,#E6E6FA,Gray,#808080,77,Medium,All Seasons,Casual,84,Relaxed,Night,Universal
+Crimson,#DC143C,Beige,#F5F5DC,84,Medium,All Seasons,Formal,58,Bold,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,65,Medium,Spring/Summer,Party,96,Sophisticated,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,79,High,Spring/Summer,Party,87,Energetic,Night,Universal
+Charcoal Gray,#36454F,White,#FFFFFF,100,Medium,Fall/Winter,Party,61,Bold,Night,Universal
+Sky Blue,#87CEEB,Navy Blue,#000080,63,High,Fall/Winter,Casual,70,Classic,Night,Universal
+Black,#000000,Khaki,#C3B091,90,Medium,Spring/Summer,Party,92,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Khaki,#C3B091,97,Low,Spring/Summer,Formal,76,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,91,Medium,Spring/Summer,Formal,77,Bold,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,61,Medium,All Seasons,Party,61,Energetic,Night,Universal
+Crimson,#DC143C,Black,#000000,91,Medium,All Seasons,Party,85,Classic,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,76,Low,Fall/Winter,Formal,60,Relaxed,Night,Universal
+Lavender,#E6E6FA,Black,#000000,89,Medium,All Seasons,Casual,84,Classic,Night,Universal
+Black,#000000,Khaki,#C3B091,77,Low,Fall/Winter,Party,63,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,84,High,Fall/Winter,Party,91,Classic,Night,Universal
+Turquoise,#40E0D0,Khaki,#C3B091,66,High,Spring/Summer,Formal,100,Energetic,Night,Universal
+Crimson,#DC143C,Navy Blue,#000080,86,Medium,Spring/Summer,Party,86,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Maroon,#800000,98,High,All Seasons,Casual,96,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Black,#000000,94,Medium,All Seasons,Casual,62,Sophisticated,Night,Universal
+Olive Green,#808000,Burnt Orange,#CC5500,80,High,Fall/Winter,Formal,62,Sophisticated,Night,Universal
+Turquoise,#40E0D0,White,#FFFFFF,100,High,Spring/Summer,Party,92,Energetic,Night,Universal
+Crimson,#DC143C,Khaki,#C3B091,95,Medium,Fall/Winter,Party,94,Relaxed,Night,Universal
+Black,#000000,Beige,#F5F5DC,86,Medium,Fall/Winter,Casual,89,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Denim Blue,#1560BD,78,Low,Spring/Summer,Casual,84,Energetic,Night,Universal
+Sky Blue,#87CEEB,Black,#000000,79,Low,Spring/Summer,Party,90,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Teal,#008080,80,Medium,All Seasons,Casual,57,Bold,Night,Universal
+Lavender,#E6E6FA,White,#FFFFFF,60,High,All Seasons,Party,65,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Denim Blue,#1560BD,83,Low,Spring/Summer,Party,70,Relaxed,Night,Universal
+Black,#000000,Denim Blue,#1560BD,91,Medium,Spring/Summer,Formal,55,Energetic,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,60,Medium,Fall/Winter,Formal,82,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,80,Medium,All Seasons,Party,92,Sophisticated,Night,Universal
+Black,#000000,Gray,#808080,76,Medium,Spring/Summer,Formal,68,Relaxed,Night,Universal
+Coral,#FF7F50,Denim Blue,#1560BD,86,Low,All Seasons,Party,64,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Denim Blue,#1560BD,70,Low,Fall/Winter,Party,56,Sophisticated,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,67,High,Fall/Winter,Formal,79,Bold,Night,Universal
+Olive Green,#808000,Burnt Orange,#CC5500,79,Medium,All Seasons,Casual,98,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,99,High,Spring/Summer,Casual,80,Sophisticated,Night,Universal
+Black,#000000,Gray,#808080,62,High,Spring/Summer,Casual,59,Relaxed,Night,Universal
+Olive Green,#808000,Beige,#F5F5DC,78,Medium,Fall/Winter,Formal,83,Relaxed,Night,Universal
+White,#FFFFFF,Black,#000000,60,Low,Spring/Summer,Party,80,Energetic,Night,Universal
+Black,#000000,Navy Blue,#000080,91,Medium,All Seasons,Casual,67,Energetic,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,83,Low,Fall/Winter,Casual,90,Classic,Night,Universal
+White,#FFFFFF,Maroon,#800000,96,Medium,Fall/Winter,Casual,57,Sophisticated,Night,Universal
+Crimson,#DC143C,Navy Blue,#000080,95,Low,Spring/Summer,Formal,98,Bold,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,81,High,All Seasons,Formal,77,Energetic,Night,Universal
+White,#FFFFFF,Maroon,#800000,64,High,Fall/Winter,Party,59,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,79,Medium,Spring/Summer,Party,71,Bold,Night,Universal
+Lavender,#E6E6FA,Teal,#008080,87,High,Spring/Summer,Party,60,Classic,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,60,High,All Seasons,Party,95,Classic,Night,Universal
+Mustard Yellow,#FFDB58,Burnt Orange,#CC5500,83,Low,All Seasons,Formal,75,Classic,Night,Universal
+Sky Blue,#87CEEB,Maroon,#800000,64,Low,Spring/Summer,Party,60,Bold,Night,Universal
+Charcoal Gray,#36454F,Denim Blue,#1560BD,92,High,Spring/Summer,Casual,54,Sophisticated,Night,Universal
+Lavender,#E6E6FA,Maroon,#800000,97,Low,All Seasons,Party,96,Sophisticated,Night,Universal
+Mustard Yellow,#FFDB58,Denim Blue,#1560BD,94,Low,All Seasons,Formal,88,Energetic,Night,Universal
+Olive Green,#808000,Navy Blue,#000080,78,Low,Spring/Summer,Formal,79,Energetic,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,64,High,Spring/Summer,Formal,81,Classic,Night,Universal
+Turquoise,#40E0D0,Denim Blue,#1560BD,92,High,Spring/Summer,Formal,60,Relaxed,Night,Universal
+Lavender,#E6E6FA,Navy Blue,#000080,81,High,Fall/Winter,Party,63,Bold,Night,Universal
+Crimson,#DC143C,Teal,#008080,70,Low,Fall/Winter,Casual,56,Bold,Night,Universal
+Mustard Yellow,#FFDB58,Black,#000000,69,Low,Spring/Summer,Formal,83,Relaxed,Night,Universal
+Olive Green,#808000,Black,#000000,72,Medium,Fall/Winter,Party,58,Bold,Night,Universal
+Turquoise,#40E0D0,Beige,#F5F5DC,67,High,All Seasons,Casual,60,Bold,Night,Universal
+Charcoal Gray,#36454F,Gray,#808080,86,High,All Seasons,Formal,85,Sophisticated,Night,Universal
+White,#FFFFFF,Burnt Orange,#CC5500,83,Medium,Spring/Summer,Formal,70,Classic,Night,Universal
+Lavender,#E6E6FA,Burnt Orange,#CC5500,68,Low,Spring/Summer,Formal,73,Relaxed,Night,Universal
+Mustard Yellow,#FFDB58,Navy Blue,#000080,60,Medium,All Seasons,Party,95,Relaxed,Night,Universal
+Crimson,#DC143C,Navy Blue,#000080,99,Low,Spring/Summer,Formal,72,Sophisticated,Night,Universal
+White,#FFFFFF,Black,#000000,78,Medium,Fall/Winter,Casual,62,Sophisticated,Night,Universal
+Olive Green,#808000,Denim Blue,#1560BD,90,Low,Spring/Summer,Party,57,Energetic,Night,Universal
+Black,#000000,White,#FFFFFF,72,Medium,All Seasons,Casual,64,Sophisticated,Night,Universal
+Charcoal Gray,#36454F,Burnt Orange,#CC5500,98,Medium,All Seasons,Party,92,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,77,Medium,All Seasons,Party,57,Energetic,Night,Universal
+Crimson,#DC143C,Gray,#808080,60,Low,Spring/Summer,Casual,78,Energetic,Night,Universal
+Charcoal Gray,#36454F,Maroon,#800000,86,Low,All Seasons,Formal,62,Classic,Night,Universal
+Lavender,#E6E6FA,Black,#000000,94,Low,All Seasons,Party,66,Bold,Night,Universal
+Black,#000000,Maroon,#800000,87,High,Spring/Summer,Formal,63,Classic,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,100,High,Fall/Winter,Formal,83,Classic,Night,Universal
+Olive Green,#808000,Burnt Orange,#CC5500,90,High,All Seasons,Formal,53,Bold,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,74,Medium,Fall/Winter,Party,98,Energetic,Night,Universal
+Turquoise,#40E0D0,Navy Blue,#000080,86,Low,Fall/Winter,Party,51,Relaxed,Night,Universal
+Turquoise,#40E0D0,Gray,#808080,98,High,Spring/Summer,Formal,67,Relaxed,Night,Universal
+Sky Blue,#87CEEB,Khaki,#C3B091,64,High,Fall/Winter,Casual,93,Relaxed,Night,Universal
+Coral,#FF7F50,Black,#000000,72,Medium,Fall/Winter,Casual,77,Classic,Night,Universal
+Coral,#FF7F50,Khaki,#C3B091,68,High,All Seasons,Casual,88,Energetic,Night,Universal
+Mustard Yellow,#FFDB58,Maroon,#800000,74,Medium,All Seasons,Casual,56,Relaxed,Night,Universal
+Coral,#FF7F50,Beige,#F5F5DC,91,Medium,Spring/Summer,Casual,75,Relaxed,Night,Universal
+White,#FFFFFF,Burnt Orange,#CC5500,83,Low,Fall/Winter,Party,69,Classic,Night,Universal
+Coral,#FF7F50,Navy Blue,#000080,95,Medium,All Seasons,Casual,83,Classic,Night,Universal
+Olive Green,#808000,Black,#000000,68,Low,Spring/Summer,Casual,99,Relaxed,Night,Universal
+White,#FFFFFF,Beige,#F5F5DC,99,Medium,Spring/Summer,Formal,100,Relaxed,Night,Universal
+White,#FFFFFF,White,#FFFFFF,84,Low,All Seasons,Casual,79,Classic,Night,Universal
+Crimson,#DC143C,Teal,#008080,75,Low,Spring/Summer,Formal,92,Bold,Night,Universal
+Coral,#FF7F50,Gray,#808080,77,High,Fall/Winter,Party,56,Relaxed,Night,Universal
+Black,#000000,Beige,#F5F5DC,71,Low,Spring/Summer,Casual,86,Relaxed,Night,Universal
+Lavender,#E6E6FA,Denim Blue,#1560BD,61,Low,Fall/Winter,Party,60,Relaxed,Night,Universal
+White,#FFFFFF,Gray,#808080,61,Low,Fall/Winter,Casual,59,Sophisticated,Night,Universal
+Olive Green,#808000,Khaki,#C3B091,59,Low,Spring/Summer,Party,69,Classic,Evening,Dark
+Lavender,#E6E6FA,White,#FFFFFF,75,Low,All Seasons,Casual,68,Elegant,Morning,Fair
+Teal,#008080,Beige,#F5F5DC,53,High,Fall/Winter,Formal,50,Bold,Morning,Dark
+Navy Blue,#000080,Gray,#808080,68,Low,Fall/Winter,Party,98,Relaxed,Evening,Dark
+Burgundy,#800020,Black,#000000,90,High,Spring/Summer,Formal,54,Relaxed,Night,Fair
+Peach,#FFDAB9,Brown,#A52A2A,81,Low,All Seasons,Formal,99,Classic,Morning,Universal
+Charcoal,#36454F,Olive Green,#808000,80,High,Fall/Winter,Party,60,Sophisticated,Night,Medium
